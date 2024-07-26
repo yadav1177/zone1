@@ -1357,74 +1357,332 @@ https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
 #EXTINF:-1 tvg-id="ZeeThirai.in" tvg-name=""  tvg-logo="https://i.imgur.com/vmHfPD8.png" group-title="Undefined",Zee Thirai 
 http://line.gofast-tv.me/play/live.php?extension=ts&mac=00:1A:79:6F:5A:5D&play_token=oOPicFfGrH&stream=941587
 
-#EXTINF:-1 tvg-id="Be1.be" tvg-name="Be1 Alt" group-title="News" parent-code="1234" audio-track="nl",Be1 Name 
-http://watchindia.net:8880/live/varghesekunju62/308678sher/930.ts
+++++++++++++++++++++++++++++++++++++++++++++++++++VOB++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTINF:-1,Super (2005)
+http://starshare.live:8080/movie/554147/554147/65537.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name=" Rudramambapuram " tvg-logo="https://www.naasongs.co/wp-content/uploads/2023/07/Rudramambapuram-2023-Jaathara.jpg" group-title="TELUGU VOD", Rudramambapuram 
-http://mixbix.xyz:8080/movie/n3hqcJt7MUaB/HV3wLwkMDpgt/249770.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chakravyuham " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlD2KQPbZ1Q3BI5jXO2YVRN8r3f.jpg" group-title="TELUGU VOD",Chakravyuham 
-http://mixbix.xyz:8080/movie/n3hqcJt7MUaB/HV3wLwkMDpgt/249769.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" Rudramambapuram " tvg-logo="https://www.naasongs.co/wp-content/uploads/2023/07/Rudramambapuram-2023-Jaathara.jpg" group-title="TELUGU VOD", Rudramambapuram 
-http://mixbix.xyz:8080/movie/n3hqcJt7MUaB/HV3wLwkMDpgt/249768.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chakravyuham " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlD2KQPbZ1Q3BI5jXO2YVRN8r3f.jpg" group-title="TELUGU VOD,Chakravyuham 
-http://mixbix.xyz:8080/movie/n3hqcJt7MUaB/HV3wLwkMDpgt/249767.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viduthalai: Part I " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTxPji8PY3PL0SK9e4mkt2laJKg.jpg" group-title="TELUGU VOD",Viduthalai: Part I 
-http://mixbix.xyz:8080/movie/n3hqcJt7MUaB/HV3wLwkMDpgt/249677.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Emi Sethura Linga " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krCQS5vak2pxp4gBGwIcbP5Z6YM.jpg" group-title="TELUGU VOD",Emi Sethura Linga 
-http://mixbix.xyz:8080/movie/n3hqcJt7MUaB/HV3wLwkMDpgt/249676.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bhagavanth Kesari" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlwEzJHFSIakQi6xr17v6WM9l9z.jpg" group-title="TELUGU VOD",Bhagavanth Kesari 
-http://mixbix.xyz:8080/movie/n3hqcJt7MUaB/HV3wLwkMDpgt/294925.mkv
+#EXTINF:-1,Siva (1989)
+http://starshare.live:8080/movie/554147/554147/65605.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-MOVIES 1 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7 ᴴᴰ",TELUGU-MOVIES 1 HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237475
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-MOVIES 2 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7 ᴴᴰ",TELUGU-MOVIES 2 HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237476
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-CLASSIC MOVIES  HD" tvg-logo="" group-title="TELUGU MOVIES 24/7 ᴴᴰ",TELUGU-CLASSIC MOVIES  HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237480
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-LATTEST MOVIES 1 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7 ᴴᴰ",TELUGU-LATTEST MOVIES 1 HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237482
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-LATTEST MOVIES 2 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7 ᴴᴰ",TELUGU-LATTEST MOVIES 2 HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237483
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-EROSNOW MOVIES 1 HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-EROSNOW MOVIES 1 HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237479
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-ACTION DRAMA MOVIES HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-ACTION DRAMA MOVIES HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237484
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-COMEDY MOVIES HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-COMEDY MOVIES HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237485
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-ACTION CRIME MOVIES HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-ACTION CRIME MOVIES HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237486
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-ACTION THRILLER MOVIES HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-ACTION THRILLER MOVIES HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237487
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-THRILLER MOVIES HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-THRILLER MOVIES HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237488
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-ROMANCE MOVIES HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-ROMANCE MOVIES HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237489
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-MYSTERY MOVIES HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-MYSTERY MOVIES HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237490
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-COMEDY ROMANCE MOVES HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-COMEDY ROMANCE MOVES HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237491
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-COMEDY DRAMA MOVIES HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-COMEDY DRAMA MOVIES HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237492
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-CRIME MOVIES HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-CRIME MOVIES HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237493
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-CRIME DRAMA MOVIES HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-CRIME DRAMA MOVIES HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237494
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-DRAMA MOVIES HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-DRAMA MOVIES HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237495
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-DRAMA ROMANCE MOVIES HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-DRAMA ROMANCE MOVIES HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237496
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-DRAMA THRILLER MOVIES HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-DRAMA THRILLER MOVIES HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237497
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-FANTASY MOVIES HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-FANTASY MOVIES HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237498
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-HORROR MOVIES HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-HORROR MOVIES HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237499
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-HORROR THRILLER MOVIES HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-HORROR THRILLER MOVIES HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237500
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-MUSICAL MOVIES HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-MUSICAL MOVIES HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237501
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-MIX SONG HD" tvg-logo="" group-title="TELUGU 24X7 ᴴᴰ",TELUGU-MIX SONG HD
-http://mixbix.xyz:8080/n3hqcJt7MUaB/HV3wLwkMDpgt/237502
+#EXTINF:-1,Seetharama Raju (1999)
+http://starshare.live:8080/movie/554147/554147/65618.mp4
+
+#EXTINF:-1,Jamba Lakidi Pamba (1992)
+http://starshare.live:8080/movie/554147/554147/65987.mp4
+
+
+#EXTINF:-1,Jaya Janaki Nayaka (2017) Tamil Telugu
+http://starshare.live:8080/movie/554147/554147/29104.mkv
+
+#EXTINF:-1,RED (2010)Telugu Tamil Hindi Eng 
+http://starshare.live:8080/movie/554147/554147/29106.mkv
+
+#EXTINF:-1,The Dark Knight (2008)Tamil Telugu Hindi
+http://starshare.live:8080/movie/554147/554147/29107.mkv
+
+#EXTINF:-1,Vakeel Saab (2021) Hindi+Telugu
+http://starshare.live:8080/movie/554147/554147/31305.mkv
+
+#EXTINF:-1,Oka Telugu Prema Katha (2020)
+http://starshare.live:8080/movie/554147/554147/64585.mp4
+
+#EXTINF:-1,Okkadu (2003)
+http://starshare.live:8080/movie/554147/554147/64586.mp4
+#EXTINF:-1,O Manchi Roju Chusi Chepta (2018)
+http://starshare.live:8080/movie/554147/554147/64587.mp4
+#EXTINF:-1,Oorantha Anukuntunnaru (2019)
+http://starshare.live:8080/movie/554147/554147/64588.mp4
+#EXTINF:-1,Pachchis (2021)
+http://starshare.live:8080/movie/554147/554147/64589.mp4
+#EXTINF:-1,Paisa Paramatma (2021)
+http://starshare.live:8080/movie/554147/554147/64590.mp4
+#EXTINF:-1,Pandugadi Photo Studio (2019)
+http://starshare.live:8080/movie/554147/554147/64591.mp4
+#EXTINF:-1,Paramapadham Vilayattu (2021)
+http://starshare.live:8080/movie/554147/554147/64592.mp4
+#EXTINF:-1,Penguin (2020)
+http://starshare.live:8080/movie/554147/554147/64593.mp4
+#EXTINF:-1,Play Back (2021)
+http://starshare.live:8080/movie/554147/554147/64594.mp4
+#EXTINF:-1,Pogaru (2021)
+http://starshare.live:8080/movie/554147/554147/64595.mp4
+#EXTINF:-1,Power Play (2021)
+http://starshare.live:8080/movie/554147/554147/64596.mp4
+#EXTINF:-1,Prayanikudu (2021)
+http://starshare.live:8080/movie/554147/554147/64597.mp4
+#EXTINF:-1,Raani (2021)
+http://starshare.live:8080/movie/554147/554147/64598.mp4
+#EXTINF:-1,Prema Pipasi (2020)
+http://starshare.live:8080/movie/554147/554147/64599.mp4
+#EXTINF:-1,Radha Krishna (2021)
+http://starshare.live:8080/movie/554147/554147/64600.mp4
+#EXTINF:-1,Ratnagiri (2021)
+http://starshare.live:8080/movie/554147/554147/64601.mp4
+#EXTINF:-1,Red (2021)
+http://starshare.live:8080/movie/554147/554147/64602.mp4
+#EXTINF:-1,Rendu (2021)
+http://starshare.live:8080/movie/554147/554147/64603.mp4
+#EXTINF:-1,Rendu Rellu Aaru (2017)
+http://starshare.live:8080/movie/554147/554147/64604.mp4
+#EXTINF:-1,Rythu Rajyam (1996)
+http://starshare.live:8080/movie/554147/554147/64605.mp4
+#EXTINF:-1,Salt (2021)
+http://starshare.live:8080/movie/554147/554147/64606.mp4
+#EXTINF:-1,Sashi (2021)
+http://starshare.live:8080/movie/554147/554147/64607.mp4
+#EXTINF:-1,Seenu Ranga (2021)
+http://starshare.live:8080/movie/554147/554147/64608.mp4
+#EXTINF:-1,Shaadi Mubarak (2021)
+http://starshare.live:8080/movie/554147/554147/64609.mp4
+#EXTINF:-1,Shukra (2021)
+http://starshare.live:8080/movie/554147/554147/64610.mp4
+#EXTINF:-1,Simhasanam (2021)
+http://starshare.live:8080/movie/554147/554147/64611.mp4
+#EXTINF:-1,Sindhubaadh (2019)
+http://starshare.live:8080/movie/554147/554147/64612.mp4
+#EXTINF:-1,Sita Ramula Kalyanam Chuthuma Rarandi (2021)
+http://starshare.live:8080/movie/554147/554147/64613.mp4
+#EXTINF:-1,Solo Brathuke So Better (2020)
+http://starshare.live:8080/movie/554147/554147/64614.mp4
+#EXTINF:-1,Soorarai Pottru (2020)
+http://starshare.live:8080/movie/554147/554147/64615.mp4
+#EXTINF:-1,Sreekaram (2021)
+http://starshare.live:8080/movie/554147/554147/64616.mp4
+#EXTINF:-1,Sri Ramachandaradu Everekkida (2021)
+http://starshare.live:8080/movie/554147/554147/64617.mp4
+#EXTINF:-1,Sulthan (2021)
+http://starshare.live:8080/movie/554147/554147/64618.mp4
+#EXTINF:-1,Suraj Pe Mangal Bhari (2020)
+http://starshare.live:8080/movie/554147/554147/64619.mp4
+#EXTINF:-1,Teddy (2020)
+http://starshare.live:8080/movie/554147/554147/64620.mp4
+#EXTINF:-1,Thank You Brother! (2021)
+http://starshare.live:8080/movie/554147/554147/64621.mp4
+#EXTINF:-1,The Fog (2020)
+http://starshare.live:8080/movie/554147/554147/64622.mp4
+#EXTINF:-1,The Girl on the Train (2021)
+http://starshare.live:8080/movie/554147/554147/64623.mp4
+#EXTINF:-1,Thellavarithe Guruvaram (2021)
+http://starshare.live:8080/movie/554147/554147/64624.mp4
+#EXTINF:-1,The Power (2021)
+http://starshare.live:8080/movie/554147/554147/64625.mp4
+#EXTINF:-1,Thumbaa (2019)
+http://starshare.live:8080/movie/554147/554147/64626.mp4
+#EXTINF:-1,Tongi Tongi Chudamaku Chandamama (2021)
+http://starshare.live:8080/movie/554147/554147/64627.mp4
+#EXTINF:-1,True (2021)
+http://starshare.live:8080/movie/554147/554147/64628.mp4
+#EXTINF:-1,Uppena (2021)
+http://starshare.live:8080/movie/554147/554147/64629.mp4
+#EXTINF:-1,Uttama Kali Purushudu (2021)
+http://starshare.live:8080/movie/554147/554147/64630.mp4
+#EXTINF:-1,V (2020)
+http://starshare.live:8080/movie/554147/554147/64631.mp4
+#EXTINF:-1,Vasantha Kalam (2019)
+http://starshare.live:8080/movie/554147/554147/64632.mp4
+#EXTINF:-1,Vegu Chukkalu (2003)
+http://starshare.live:8080/movie/554147/554147/64633.mp4
+#EXTINF:-1,Vakeel Saab (2021)
+http://starshare.live:8080/movie/554147/554147/64634.mp4
+#EXTINF:-1,Vijay Sethupathi (2021)
+http://starshare.live:8080/movie/554147/554147/64635.mp4
+#EXTINF:-1,Vikram (2001)
+http://starshare.live:8080/movie/554147/554147/64636.mp4
+#EXTINF:-1,Virasasta Ayyappa Kataksham (2021)
+http://starshare.live:8080/movie/554147/554147/64637.mp4
+#EXTINF:-1,Viswacharyudu (2021)
+http://starshare.live:8080/movie/554147/554147/64638.mp4
+#EXTINF:-1,Wild Dog (2021)
+http://starshare.live:8080/movie/554147/554147/64639.mp4
+#EXTINF:-1,90 ML (2019)
+http://starshare.live:8080/movie/554147/554147/65272.mp4
+#EXTINF:-1,Buchi Babu (1980)
+http://starshare.live:8080/movie/554147/554147/65273.mp4
+#EXTINF:-1,Darbar (2020)
+http://starshare.live:8080/movie/554147/554147/65274.mp4
+#EXTINF:-1,Doshi Nirdoshi (1990)
+http://starshare.live:8080/movie/554147/554147/65275.mp4
+#EXTINF:-1,Konchem Touchlo Vunte Cheputanu (2005)
+http://starshare.live:8080/movie/554147/554147/65276.mp4
+#EXTINF:-1,Mathu Vadalara (2019)
+http://starshare.live:8080/movie/554147/554147/65277.mp4
+#EXTINF:-1,Naa Mogudu Nanke Sontham (1989)
+http://starshare.live:8080/movie/554147/554147/65278.mp4
+#EXTINF:-1,Alludugaru (1990)
+http://starshare.live:8080/movie/554147/554147/65279.mp4
+#EXTINF:-1,Okkade (2005)
+http://starshare.live:8080/movie/554147/554147/65280.mp4
+#EXTINF:-1,Private College (1991)
+http://starshare.live:8080/movie/554147/554147/65281.mp4
+#EXTINF:-1,Siddhi Vinayaka (2007)
+http://starshare.live:8080/movie/554147/554147/65282.mp4
+#EXTINF:-1,Swati Kiranam (1992)
+http://starshare.live:8080/movie/554147/554147/65283.mp4
+#EXTINF:-1,Tatayya Kankanam (1980)
+http://starshare.live:8080/movie/554147/554147/65284.mp4
+#EXTINF:-1,Vaarala Abbayi (1981)
+http://starshare.live:8080/movie/554147/554147/65285.mp4
+#EXTINF:-1,Alludugaaru Vachcharu (1999)
+http://starshare.live:8080/movie/554147/554147/65286.mp4
+#EXTINF:-1,Criminal (1994)
+http://starshare.live:8080/movie/554147/554147/65287.mp4
+#EXTINF:-1,Iddaru Mitrulu (1999)
+http://starshare.live:8080/movie/554147/554147/65288.mp4
+#EXTINF:-1,Lady Tiger (2010)
+http://starshare.live:8080/movie/554147/554147/65289.mp4
+#EXTINF:-1,Lava Kusa (1963)
+http://starshare.live:8080/movie/554147/554147/65290.mp4
+#EXTINF:-1,Nee Prematho (2002)
+http://starshare.live:8080/movie/554147/554147/65291.mp4
+#EXTINF:-1,Anna Thammudu (1958)
+http://starshare.live:8080/movie/554147/554147/65292.mp4
+#EXTINF:-1,Chinnari Muddula Papa (1990)
+http://starshare.live:8080/movie/554147/554147/65293.mp4
+#EXTINF:-1,Radha Gopalam (2005)
+http://starshare.live:8080/movie/554147/554147/65295.mp4
+#EXTINF:-1,Thalla- Pellama- (1970) (1970)
+http://starshare.live:8080/movie/554147/554147/65296.mp4
+#EXTINF:-1,Telugu Veera levara (1995)
+http://starshare.live:8080/movie/554147/554147/65297.mp4
+#EXTINF:-1,Naa Pilupe Prabhanjanam (1986)
+http://starshare.live:8080/movie/554147/554147/65298.mp4
+#EXTINF:-1,Pothe Poni (2006)
+http://starshare.live:8080/movie/554147/554147/65299.mp4
+#EXTINF:-1,Prema Katha (1999)
+http://starshare.live:8080/movie/554147/554147/65300.mp4
+#EXTINF:-1,Premisthu (2009)
+http://starshare.live:8080/movie/554147/554147/65301.mp4
+#EXTINF:-1,Sivabhakta Vijayam (1967)
+http://starshare.live:8080/movie/554147/554147/65302.mp4
+#EXTINF:-1,Sri Sita Ramula Kalyanam Chootamu Raarandi (1998)
+http://starshare.live:8080/movie/554147/554147/65303.mp4
+#EXTINF:-1,Bala Bharatam (1972)
+http://starshare.live:8080/movie/554147/554147/65304.mp4
+#EXTINF:-1,Namastey London (2005)
+http://starshare.live:8080/movie/554147/554147/65305.mp4
+#EXTINF:-1,Nuvvante Naakishtam (2005)
+http://starshare.live:8080/movie/554147/554147/65306.mp4
+#EXTINF:-1,Postman (1999)
+http://starshare.live:8080/movie/554147/554147/65307.mp4
+#EXTINF:-1,Sri Tirupatamma Katha (1964)
+http://starshare.live:8080/movie/554147/554147/65308.mp4
+#EXTINF:-1,Vasthad (2006)
+http://starshare.live:8080/movie/554147/554147/65309.mp4
+#EXTINF:-1,Chandraharam (1954)
+http://starshare.live:8080/movie/554147/554147/65310.mp4
+
+#EXTINF:-1,Nuvvante Naakishtam (2005)
+http://starshare.live:8080/movie/554147/554147/65306.mp4
+
+#EXTINF:-1,Nirnayam (1991)
+http://starshare.live:8080/movie/554147/554147/65330.mp4
+#EXTINF:-1,Pandugadu (2008)
+http://starshare.live:8080/movie/554147/554147/65331.mp4
+#EXTINF:-1,Premisthe (2004)
+http://starshare.live:8080/movie/554147/554147/65332.mp4
+#EXTINF:-1,Rajeswari Kalyanam (1993)
+http://starshare.live:8080/movie/554147/554147/65333.mp4
+#EXTINF:-1,Surya son of Krishnan (2008)
+http://starshare.live:8080/movie/554147/554147/65334.mp4
+#EXTINF:-1,Naaku Nuvve Kavali (2003)
+http://starshare.live:8080/movie/554147/554147/65335.mp4
+#EXTINF:-1,Nirdoshi (1984)
+http://starshare.live:8080/movie/554147/554147/65336.mp4
+#EXTINF:-1,Praja Rajyam (1983)
+http://starshare.live:8080/movie/554147/554147/65337.mp4
+#EXTINF:-1,Prema Swaragalu (1980)
+http://starshare.live:8080/movie/554147/554147/65338.mp4
+#EXTINF:-1,Premikulu (2005)
+http://starshare.live:8080/movie/554147/554147/65339.mp4
+#EXTINF:-1,Sri Rama Pattabhishekam (1978)
+http://starshare.live:8080/movie/554147/554147/65340.mp4
+#EXTINF:-1,Bhadrachalam (2001)
+http://starshare.live:8080/movie/554147/554147/65341.mp4
+#EXTINF:-1,Dabbu Dabbu Dabbu (1981)
+http://starshare.live:8080/movie/554147/554147/65342.mp4
+#EXTINF:-1,Indhu (2003)
+http://starshare.live:8080/movie/554147/554147/65343.mp4
+#EXTINF:-1,Sumitra (2004)
+http://starshare.live:8080/movie/554147/554147/65344.mp4
+#EXTINF:-1,Varsham (2004)
+http://starshare.live:8080/movie/554147/554147/65345.mp4
+#EXTINF:-1,Mana Voori Pandavulu (1978)
+http://starshare.live:8080/movie/554147/554147/65346.mp4
+#EXTINF:-1,Govula Gopanna (1968)
+http://starshare.live:8080/movie/554147/554147/65347.mp4
+#EXTINF:-1,Kodalu Diddina Kapuram (1970)
+http://starshare.live:8080/movie/554147/554147/65348.mp4
+#EXTINF:-1,Navvandi Lavvandi (1998)
+http://starshare.live:8080/movie/554147/554147/65349.mp4
+#EXTINF:-1,Abhilasha (1983)
+http://starshare.live:8080/movie/554147/554147/65350.mp4
+#EXTINF:-1,Chanti (1992)
+http://starshare.live:8080/movie/554147/554147/65351.mp4
+#EXTINF:-1,Patnavasam (1978)
+http://starshare.live:8080/movie/554147/554147/65352.mp4
+#EXTINF:-1,Shrimati Garu (1985)
+http://starshare.live:8080/movie/554147/554147/65353.mp4
+#EXTINF:-1,Sisindri (1995)
+http://starshare.live:8080/movie/554147/554147/65354.mp4
+#EXTINF:-1,Varasudu (1993)
+http://starshare.live:8080/movie/554147/554147/65355.mp4
+#EXTINF:-1,Pandanti Kapuram (1972)
+http://starshare.live:8080/movie/554147/554147/65356.mp4
+#EXTINF:-1,Ramarajyamlo Rakthapasam (1976)
+http://starshare.live:8080/movie/554147/554147/65357.mp4
+#EXTINF:-1,Samara Simham (1999)
+http://starshare.live:8080/movie/554147/554147/65358.mp4
+#EXTINF:-1,Shri Krishna Vijayamu (1971)
+http://starshare.live:8080/movie/554147/554147/65359.mp4
+#EXTINF:-1,Sri Krishna Pandaveeyam (1966)
+http://starshare.live:8080/movie/554147/554147/65360.mp4
+#EXTINF:-1,Pellam Chepithe Vinali (1992)
+http://starshare.live:8080/movie/554147/554147/65361.mp4
+#EXTINF:-1,Pellaniki Premalekha Priyuraliki Subhalekha (1992)
+http://starshare.live:8080/movie/554147/554147/65362.mp4
+#EXTINF:-1,Poorna Market (2007)
+http://starshare.live:8080/movie/554147/554147/65363.mp4
+#EXTINF:-1,Siddu from Srikakulam (2008)
+http://starshare.live:8080/movie/554147/554147/65364.mp4
+#EXTINF:-1,Simham Navvindi (1983)
+http://starshare.live:8080/movie/554147/554147/65365.mp4
+#EXTINF:-1,Sumangali (1965)
+http://starshare.live:8080/movie/554147/554147/65366.mp4
+#EXTINF:-1,O Thandri Teerpu (1985)
+http://starshare.live:8080/movie/554147/554147/65367.mp4
+#EXTINF:-1,Pacha Thoranam (1994)
+http://starshare.live:8080/movie/554147/554147/65368.mp4
+#EXTINF:-1,Political Rowdy (2005)
+http://starshare.live:8080/movie/554147/554147/65369.mp4
+#EXTINF:-1,Sudigundalu (1968)
+http://starshare.live:8080/movie/554147/554147/65370.mp4
+#EXTINF:-1,Bhale Mastaru (1969)
+http://starshare.live:8080/movie/554147/554147/65371.mp4
+#EXTINF:-1,Edadugula Bandham (1985)
+http://starshare.live:8080/movie/554147/554147/65372.mp4
+#EXTINF:-1,Preminchodu Preminchodu (1997)
+http://starshare.live:8080/movie/554147/554147/65373.mp4
+#EXTINF:-1,Valasa (2021)
+http://starshare.live:8080/movie/554147/554147/65374.mp4
+#EXTINF:-1,Aatmiyulu (1969)
+http://starshare.live:8080/movie/554147/554147/65375.mp4
+#EXTINF:-1,Adavi Donga (1985)
+http://starshare.live:8080/movie/554147/554147/65376.mp4
+#EXTINF:-1,Adhipathi (2001)
+http://starshare.live:8080/movie/554147/554147/65377.mp4
+#EXTINF:-1,Amavasya Chandrudu (1981)
+http://starshare.live:8080/movie/554147/554147/65378.mp4
+#EXTINF:-1,Anasuya (2007)
+http://starshare.live:8080/movie/554147/554147/65379.mp4
+#EXTINF:-1,Cheema Prema Madhyalo Bhama (2020)
+http://starshare.live:8080/movie/554147/554147/65380.mp4
+#EXTINF:-1,Maa Vintha Gaadha Vinuma (2020)
+http://starshare.live:8080/movie/554147/554147/65381.mp4
+#EXTINF:-1,Paramanandham Shishyulu (2019)
+http://starshare.live:8080/movie/554147/554147/65382.mp4
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Dhootha S01 E01" tvg-logo="https://www.bolly2tolly.live/wp-content/uploads/2023/12/Dhootha-telugu-tv-show-online-bolly2tolly-185x275.jpg" group-title="Web Series",Dhootha S01 E01
 https://maxhd.icu/Dhootha%20(2023)%20S01%20EP01%20720p%20HD%20-%20Bolly2Tolly.world.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dhootha S01 E02" tvg-logo="https://www.bolly2tolly.live/wp-content/uploads/2023/12/Dhootha-telugu-tv-show-online-bolly2tolly-185x275.jpg" group-title="Web Series",Dhootha S01 E02
