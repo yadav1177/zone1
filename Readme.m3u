@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-id=400 tvg-name="PM e Vidya 01" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_1.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 01
+http://14.102.123.50:5001/live/400.m3u8
+#EXTINF:-1 tvg-id=401 tvg-name="Swayam Prabha 19" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_19.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 19
+http://14.102.123.50:5001/live/401.m3u8
+#EXTINF:-1 tvg-id=402 tvg-name="PM e Vidya 02" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_2.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 02
+http://14.102.123.50:5001/live/402.m3u8
+#EXTINF:-1 tvg-id=403 tvg-name="Swayam Prabha 20" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_20.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 20
+http://14.102.123.50:5001/live/403.m3u8
+#EXTINF:-1 tvg-id=404 tvg-name="PM e Vidya 07" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_7.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 07
+http://14.102.123.50:5001/live/404.m3u8
+#EXTINF:-1 tvg-id=405 tvg-name="PM e Vidya 03" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_3.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 03
+http://14.102.123.50:5001/live/405.m3u8
+#EXTINF:-1 tvg-id=406 tvg-name="PM e Vidya 04" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_4.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 04
+http://14.102.123.50:5001/live/406.m3u8
+#EXTINF:-1 tvg-id=407 tvg-name="PM e Vidya 05" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_5.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 05
+http://14.102.123.50:5001/live/407.m3u8
+#EXTINF:-1 tvg-id=408 tvg-name="PM e Vidya 06" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_6.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 06
+http://14.102.123.50:5001/live/408.m3u8
+#EXTINF:-1 tvg-id=409 tvg-name="PM e Vidya 08" tvg-logo="http://14.102.123.50:5001/jtvimage/_evidya_8.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 08
+http://14.102.123.50:5001/live/409.m3u8
+#EXTINF:-1 tvg-id=410 tvg-name="PM e Vidya 09" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_9.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 09
+http://14.102.123.50:5001/live/410.m3u8
+#EXTINF:-1 tvg-id=411 tvg-name="PM e Vidya 10" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_10.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 10
+http://14.102.123.50:5001/live/411.m3u8
 
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="http://103.184.192.164:5001/jtvimage/ETV_Telugu.png" group-title="ENTERTAINMENT", ETV HD
 http://starshare.live:8080/live/7884362065/8020257649/9017.ts
@@ -461,7 +485,7 @@ https://ythls.armelin.one/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8
 ------------------------------SPORTS------------------------------------------------
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IPL In Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2024/03/IPL24.png" group-title="SPORTS", IPL In Telugu
-http://starshare.live:8080/live/554147/554147/98.ts
+http://14.102.123.50:5001/live/3020.m3u8
 
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="SPORTS 18 HD" tvg-logo="https://i.imgur.com/KthSX8T.png" group-title="SPORTS", SPORTS 18 HD
 http://watchindia.net:8880/live/98697/23119/2423.ts
@@ -473,19 +497,19 @@ http://xtv.ooo:8080/MansoorWapda/258741/206324
 http://starshare.live:8080/live/554147/554147/158899.ts
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.imgur.com/NambWyO.png" group-title="SPORTS", STAR SPORTS 1
-http://starshare.live:8080/live/554147/554147/9397.ts
+http://vo01.mohdtv.com:8880/voby5324/62119828/55273
 
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://i.imgur.com/yfslQep.png" group-title="SPORTS", STAR SPORTS 2 
-http://starshare.live:8080/live/554147/554147/124284.ts
+http://vo01.mohdtv.com:8880/voby5324/62119828/55272
 
 #EXTINF:-1 tvg-id="StarSports3.in" tvg-name="STAR SPORTS 3 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", STAR SPORTS 3 
-http://starshare.live:8080/live/554147/554147/18452.ts
+http://vo01.mohdtv.com:8880/voby5324/62119828/55271
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="STAR SPORTS SELCT 1 HD" tvg-logo="https://i.imgur.com/uzspvbf.png" group-title="SPORTS", STAR SPORTS SELECT 1 
-http://starshare.live:8080/live/554147/554147/238.ts
+http://vo01.mohdtv.com:8880/voby5324/62119828/55270
 
 #EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="STAR SPORTS SELCT 2 HD" tvg-logo="https://i.imgur.com/FZtlTVZ.png" group-title="SPORTS", STAR SPORTS SELCT 2 
-http://starshare.live:8080/live/554147/554147/148801.ts
+http://vo01.mohdtv.com:8880/voby5324/62119828/55269
 
 #EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="STAR SPORTS HINDI" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", STAR SPORTS HINDI
 http://starshare.live:8080/live/554147/554147/124287.ts
@@ -497,13 +521,13 @@ http://starshare.live:8080/live/554147/554147/9722.ts
 http://starshare.live:8080/live/554147/554147/177843.ts
 
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="SONY SPORTS 1 HD"  tvg-logo="https://i.imgur.com/X7ZOQg6.jpg" group-title="SPORTS", SONY SPORTS 1 HD
-http://starshare.live:8080/live/554147/554147/154.ts
+http://vo01.mohdtv.com:8880/voby5324/62119828/55284
 
 #EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://i.imgur.com/Mbn4b8Q.jpg" group-title="SPORTS", SONY SPORTS 2 HD
-http://starshare.live:8080/live/554147/554147/192.ts
+http://vo01.mohdtv.com:8880/voby5324/62119828/55282
 
 #EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="SONY SPORTS 3 HD"  tvg-logo="https://i.imgur.com/ENXj9HB.jpg" group-title="SPORTS", SONY SPORTS 3 HD
-http://starshare.live:8080/live/554147/554147/146.ts
+http://vo01.mohdtv.com:8880/voby5324/62119828/55281
 
 #EXTINF:-1 tvg-id="sony.ten.4.in" tvg-name="SONY SPORTS 4 HD" tvg-logo="https://i.imgur.com/vdhl7Zo.png" group-title="SPORTS", SONY SPORTS 4 HD
 http://starshare.live:8080/live/554147/554147/29469.ts
@@ -512,7 +536,7 @@ http://starshare.live:8080/live/554147/554147/29469.ts
 http://starshare.live:8080/live/554147/554147/176.ts
 
 #EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="WILLOW CRICKET HD" tvg-logo="https://i.imgur.com/qRIhhay.png" group-title="SPORTS", WILLOW CRICKET HD
-http://starshare.live:8080/live/554147/554147/23943.ts
+http://vo01.mohdtv.com:8880/voby5324/62119828/55219
 
 #EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="WILLOW EXTRA HD" tvg-logo="https://i.imgur.com/s27K3Zc.jpg" group-title="SPORTS",WILLOW EXTRA HD
 http://starshare.live:8080/live/554147/554147/5040.ts
