@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=400 tvg-name="PM e Vidya 01" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_1.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 01
-http://14.102.123.50:5001/live/400.m3u8
-#EXTINF:-1 tvg-id=401 tvg-name="Swayam Prabha 19" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_19.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 19
-http://14.102.123.50:5001/live/401.m3u8
-#EXTINF:-1 tvg-id=402 tvg-name="PM e Vidya 02" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_2.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 02
-http://14.102.123.50:5001/live/402.m3u8
-#EXTINF:-1 tvg-id=403 tvg-name="Swayam Prabha 20" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_20.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 20
-http://14.102.123.50:5001/live/403.m3u8
-#EXTINF:-1 tvg-id=404 tvg-name="PM e Vidya 07" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_7.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 07
-http://14.102.123.50:5001/live/404.m3u8
-#EXTINF:-1 tvg-id=405 tvg-name="PM e Vidya 03" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_3.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 03
-http://14.102.123.50:5001/live/405.m3u8
-#EXTINF:-1 tvg-id=406 tvg-name="PM e Vidya 04" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_4.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 04
-http://14.102.123.50:5001/live/406.m3u8
-#EXTINF:-1 tvg-id=407 tvg-name="PM e Vidya 05" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_5.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 05
-http://14.102.123.50:5001/live/407.m3u8
-#EXTINF:-1 tvg-id=408 tvg-name="PM e Vidya 06" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_6.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 06
-http://14.102.123.50:5001/live/408.m3u8
-#EXTINF:-1 tvg-id=409 tvg-name="PM e Vidya 08" tvg-logo="http://14.102.123.50:5001/jtvimage/_evidya_8.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 08
-http://14.102.123.50:5001/live/409.m3u8
-#EXTINF:-1 tvg-id=410 tvg-name="PM e Vidya 09" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_9.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 09
-http://14.102.123.50:5001/live/410.m3u8
-#EXTINF:-1 tvg-id=411 tvg-name="PM e Vidya 10" tvg-logo="http://14.102.123.50:5001/jtvimage/evidya_10.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 10
-http://14.102.123.50:5001/live/411.m3u8
 
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="http://103.184.192.164:5001/jtvimage/ETV_Telugu.png" group-title="ENTERTAINMENT", ETV HD
 http://starshare.live:8080/live/7884362065/8020257649/9017.ts
