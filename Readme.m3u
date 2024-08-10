@@ -509,7 +509,7 @@ http://vo01.mohdtv.com:8880/voby5324/62119828/55281
 http://starshare.live:8080/live/554147/554147/29469.ts
 
 #EXTINF:-1 tvg-id="sony.ten.5.in" tvg-name="SONY SPORTS 5 HD" tvg-logo="https://i.imgur.com/rmK2ME4.png" group-title="SPORTS", SONY SPORTS 5 HD
-http://starshare.live:8080/live/554147/554147/176.ts
+http://119.156.26.155:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="WILLOW CRICKET HD" tvg-logo="https://i.imgur.com/qRIhhay.png" group-title="SPORTS", WILLOW CRICKET HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/55219
