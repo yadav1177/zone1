@@ -13,7 +13,7 @@ http://starshare.live:8080/live/7884362065/8020257649/9053.ts
 http://14.102.123.50:5001/live/570.m3u8
 
 #EXTINF:-1 tvg-id="etvplus.in" tvg-name="ETV PLUS" tvg-logo="https://i.imgur.com/acCP6hZ.png" group-title="LIFESTYLE", ETV PLUS
-http://starshare.live:8080/live/554147/554147/242.ts
+http://14.102.123.50:5001/live/692.m3u8
 
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="STAR MAA HD" tvg-logo="https://i.imgur.com/CmiuOI9.png" group-title="ENTERTAINMENT", STAR MAA HD
 http://starshare.live:8080/live/7884362065/8020257649/168.ts
@@ -40,7 +40,7 @@ http://starshare.live:8080/live/7884362065/8020257649/9044.ts
 http://starshare.live:8080/live/7884362065/8020257649/9042.ts
 
 #EXTINF:-1 tvg-id="geminimusic.in" tvg-name="GEMINI MUSIC"  tvg-logo="https://i.imgur.com/sasTofi.png" group-title="MUSIC", GEMINI MUSIC 
-http://starshare.live:8080/live/7884362065/8020257649/213.ts
+http://14.102.123.50:5001/live/898.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU" tvg-logo="https://i.imgur.com/uHOJMKY.jpg" group-title="ENTERTAINMENT", ZEE TELUGU
 http://starshare.live:8080/live/7884362065/8020257649/1605.ts
@@ -55,23 +55,20 @@ http://starshare.live:8080/live/7884362065/8020257649/244.ts
 http://starshare.live:8080/live/7884362065/8020257649/243.ts
 
 #EXTINF:-1 tvg-id="VanithaTV.in" tvg-name="VANITHA TV" tvg-logo="http://logo.protv.cc/picons/logos/VANITHA-TV.jpg" group-title="LIFESTYLE", VANITHA TV
-http://tr.redatvgold.com:80/0b14WRvtZckx/oW40Zf4h4t/155871
+http://14.102.123.50:5001/live/775.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SAREGAMA TELUGU" tvg-logo="http://103.184.192.164:5001/jtvimage/Saregama_Telugu.png" group-title="ENTERTAINMENT", SAREGAMA TELUGU
-http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/280656
 
 #EXTINF:-1 tvg-id="CVR HEALTH" tvg-name="CVR HEALTH" tvg-logo="https://i.imgur.com/n3MRq4N.png" group-title="LIFESTYLE", CVR HEALTH
-http://tr.redatvgold.com:80/0b14WRvtZckx/oW40Zf4h4t/1097617
+http://14.102.123.50:5001/live/774.m3u8
 
 #EXTINF:-1 tvg-id="studio one" tvg-name="STUDIO ONE" tvg-logo="https://i.imgur.com/o4TszHe.jpg" group-title="ENTERTAINMENT", STUDIO ONE
-http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834504&extension=ts
+http://14.102.123.50:5001/live/1274.m3u8
 
 #EXTINF:-1 tvg-id="Studio Yuva" tvg-name="STUDIO YUVA" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="ENTERTAINMENT", STUDIO YUVA
-http://b1g.ooo:80/Alfie/Alfie/20688
+http://14.102.123.50:5001/live/1799.m3u8
 
 #EXTINF:-1 tvg-id="MANA TV AP" tvg-name=" MANA TV AP" tvg-logo="https://i.imgur.com/OHmDE9p.png" group-title="NEWS",  MANA TV AP
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717057849/ei/2eRXZv6qFa_lsfIP_a2FiAE/ip/52.157.4.129/id/s9BWiRMaMQM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f63wVR1iymT8M4fxTnuWoLMzjqSu_tDG_Jj6l27BSIJsKtjOwmir0FOExls/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgBrAZllD7dJjo52--XTResxxZG3oED7EsY0YtMO4q4p0CIQD5ScTkcmUfzt8mrmBdpHjv4wmpenJ3O1D0pZeDicNfzA%3D%3D/file/index.m3u8
-
+http://14.102.123.50:5001/live/1607.m3u8
 =========================================Devotional=====================================================================
 
 #EXTINF:-1 tvg-id="SVBC2.in" tvg-name="SVBC 2 " tvg-logo="https://i.imgur.com/NtmRt1A.png" group-title="RELIGIOUS", SVBC 2 
@@ -87,16 +84,16 @@ https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/play
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="BHAKTI TV" tvg-logo="https://i.imgur.com/MG2neif.png" group-title="RELIGIOUS",BHAKTI TV
-https://ythls.armelin.one/channel/UCSzOZ97LOpU-_AVlGfmD4rQ.m3u8
+http://14.102.123.50:5001/live/776.m3u8
 
 #EXTINF:-1 tvg-id="1254"  tvg-name="AASTHA TELUGU"  tvg-logo="https://i.imgur.com/EtoIeVg.png" group-title="RELIGIOUS"", AASTHA TELUGU
-http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/280731
+http://14.102.123.50:5001/live/1254.m3u8
 
 #EXTINF: -1 tvg-id="955" tvg-name=HINDU DHARMAM" tvg-logo="https://i.imgur.com/CqzVI8u.png group-title=" RELIGIOUS", HINDU DHARMAM
-https://ythls.armelin.one/channel/UCMg2yY8OzHhw6mOvgIkaXYg.m3u8
+http://14.102.123.50:5001/live/955.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CV OM TELUGU" tvg-logo="http://logo.protv.cc/picons/logos/CVROM.jpg" group-title="RELIGIOUS"", CV OM TELUGU
-http://tr.redatvgold.com:80/0b14WRvtZckx/oW40Zf4h4t/1097619
+#EXTINF:-1 tvg-id="" tvg-name="CVR OM Spiritual" tvg-logo="http://logo.protv.cc/picons/logos/CVROM.jpg" group-title="Devotional", CVR OM Spiritual
+http://14.102.123.50:5001/live/772.m3u8
 
 #EXTINF:-1 tvg-id="Sai TV" tvg-name="SAI TV" tvg-logo="https://i.imgur.com/IfBCZFB.png" group-title="RELIGIOUS", SAI TV
 http://decode.streamplay.in:1935/srisai/srisai/playlist.m3u8
@@ -111,13 +108,38 @@ http://live.adostream.com:1935/gospeltv/gospeltv/playlist.m3u8
 https://ythls.armelin.one/channel/UCMnz0yLX3afzFc8y822YO5g.m3u8
 
 #EXTINF: -1 tvg-id="977" tvg-name="CALVARY" tvg-logo="https://i.imgur.com/HxI8Pve.png" group-title="RELIGIOUS", CALVARY
-https://player.mslivestream.net/mslive/71e7f7cc7dc7c51206b7b3bbb51e3052.sdp/playlist.m3u8
+http://14.102.123.50:5001/live/977.m3u8
 
 #EXTINF:-1 tvg-id="Shubhsandesh.in" tvg-name="SHUBHSANDESH" tvg-logo="https://i.imgur.com/XsuFVlf.png" group-title="RELIGIOUS", SHUBHSANDESH 
 https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 
 #EXTINF: -1 tvg-id="607" tvg-name="SUBHAVARTHA TV" tvg-logo="https://i.imgur.com/hDCHguG.png" group-title="RELIGIOUS", SUBHAVARTHA TV
 http://37.49.225.197:8080/mitrovic/e8ac4724d4/166397
+
+#EXTINF:-1 tvg-id=1418 tvg-name="Ichhapuran Balaji Rajasthan" tvg-logo="http://14.102.123.50:5001/jtvimage/Ichhapuran_Balaji_Rajasthan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Ichhapuran Balaji Rajasthan
+http://14.102.123.50:5001/live/1418.m3u8
+
+#EXTINF:-1 tvg-id=1419 tvg-name="Iskon Girgaon" tvg-logo="http://14.102.123.50:5001/jtvimage/Iskon_Girgaon.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", Iskon Girgaon
+http://14.102.123.50:5001/live/1419.m3u8
+
+#EXTINF:-1 tvg-id=1420 tvg-name="Ashtavinayak Ranjangaon" tvg-logo="http://14.102.123.50:5001/jtvimage/Ashtavinayak_Ranjangaon.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", Ashtavinayak Ranjangaon
+http://14.102.123.50:5001/live/1420.m3u8
+
+#EXTINF:-1 tvg-id=1421 tvg-name="Karani Mata Rajasthan" tvg-logo="http://14.102.123.50:5001/jtvimage/Karani_Mata_Rajasthan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Karani Mata Rajasthan
+http://14.102.123.50:5001/live/1421.m3u8
+
+#EXTINF:-1 tvg-id=1422 tvg-name="Mahalaxmi Mumbai" tvg-logo="http://14.102.123.50:5001/jtvimage/Mahalaxmi_Mumbai.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", Mahalaxmi Mumbai
+http://14.102.123.50:5001/live/1422.m3u8
+
+#EXTINF:-1 tvg-id=1423 tvg-name="Babulnaath Mumbai" tvg-logo="http://14.102.123.50:5001/jtvimage/Babulnaath_Mumbai.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", Babulnaath Mumbai
+http://14.102.123.50:5001/live/1423.m3u8
+
+#EXTINF:-1 tvg-id=1424 tvg-name="Mumbadevi Mumbai" tvg-logo="http://14.102.123.50:5001/jtvimage/Mumbadevi_Mumbai.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", Mumbadevi Mumbai
+http://14.102.123.50:5001/live/1424.m3u8
+
+#EXTINF:-1 tvg-id=1426 tvg-name="Santvani" tvg-logo="http://14.102.123.50:5001/jtvimage/Santvani.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Santvani
+http://14.102.123.50:5001/live/1426.m3u8
+
 
 ++++++++++++++++++++++++++++++++++++++++++++++DD INDIA +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 #EXTINF:-1 tvg-id="DDSaptagiri.in" tvg-name="DD SAPTAGIRI" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="GENERAL", DD SAPTAGIRI
@@ -423,10 +445,10 @@ https://ythls.armelin.one/channel/UCfymZbh17_3T_UhgjkQ9fRQ.m3u8
 http://starshare.live:8080/live/7884362065/8020257649/228.ts
 
 #EXTINF:-1 tvg-id="CVRNews.in" tvg-name="CVR NEWS TELUGU" tvg-logo="https://i.imgur.com/UVLWX8B.png" group-title="NEWS", CVR NEWS TELUGU
-https://ythls.armelin.one/channel/UCixD-KrpjXtMupkzkdFFlFg.m3u8
+http://14.102.123.50:5001/live/784.m3u8
 
 #EXTINF:-1 tvg-id="CVR ENGLISH" tvg-name="CVR ENGLISH" tvg-logo="https://i.imgur.com/KR7KLQa.png" group-title="NEWS", CVR ENGLISH
-http://b1g.ooo:80/Alfie/Alfie/20726
+http://14.102.123.50:5001/live/787.m3u8
 
 #EXTINF:-1 tvg-id="tnews.in" tvg-name="T NEWS" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" group-title="NEWS", T NEWS
 http://starshare.live:8080/live/7884362065/8020257649/9049.ts
