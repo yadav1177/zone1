@@ -10,7 +10,7 @@ http://starshare.live:8080/live/7884362065/8020257649/9045.ts
 http://starshare.live:8080/live/7884362065/8020257649/9053.ts
 
 #EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="https://i.imgur.com/FSkhFIP.png" group-title="LIFESTYLE", ETV LIFE
-http://starshare.live:8080/live/7884362065/8020257649/9052.ts
+http://14.102.123.50:5001/live/570.m3u8
 
 #EXTINF:-1 tvg-id="etvplus.in" tvg-name="ETV PLUS" tvg-logo="https://i.imgur.com/acCP6hZ.png" group-title="LIFESTYLE", ETV PLUS
 http://starshare.live:8080/live/554147/554147/242.ts
