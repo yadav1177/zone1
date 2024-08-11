@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="http://103.184.192.164:5001/jtvimage/ETV_Telugu.png" group-title="ENTERTAINMENT", ETV HD
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://i.imgur.com/P2BH1YL.png" group-title="ENTERTAINMENT", ETV HD
 http://starshare.live:8080/live/7884362065/8020257649/9017.ts
 
 #EXTINF:-1 tvg-id="etvcinema.in" tvg-name="ETV CINEMA" tvg-logo="https://i.imgur.com/zqsI929.png" group-title="ENTERTAINMENT", ETV CINEMA
