@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://i.imgur.com/P2BH1YL.png" group-title="ENTERTAINMENT", ETV HD
-http://starshare.live:8080/live/7884362065/8020257649/9017.ts
+http://14.102.123.50:5001/live/629.m3u8
 
 #EXTINF:-1 tvg-id="etvcinema.in" tvg-name="ETV CINEMA" tvg-logo="https://i.imgur.com/zqsI929.png" group-title="ENTERTAINMENT", ETV CINEMA
-http://starshare.live:8080/live/7884362065/8020257649/9045.ts
+http://14.102.123.50:5001/live/252.m3u8
 
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/J7UcNO3.png" group-title="LIFESTYLE", ETV ABHIRUCHI
-http://starshare.live:8080/live/7884362065/8020257649/9053.ts
+http://14.102.123.50:5001/live/565.m3u8
 
 #EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="https://i.imgur.com/FSkhFIP.png" group-title="LIFESTYLE", ETV LIFE
 http://14.102.123.50:5001/live/570.m3u8
@@ -28,16 +28,16 @@ http://starshare.live:8080/live/7884362065/8020257649/9043.ts
 http://starshare.live:8080/live/554147/554147/57772.ts
 
 #EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="GEMINI TV " tvg-logo="https://i.imgur.com/sNAGAf9.png" group-title="ENTERTAINMENT", GEMINI TV 
-http://starshare.live:8080/live/7884362065/8020257649/214.ts
+http://14.102.123.50:5001/live/897.m3u8
 
 #EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="GEMINI MOVIES" tvg-logo="https://i.imgur.com/IOA119X.png" group-title="MOVIES", GEMINI MOVIES
-http://starshare.live:8080/live/7884362065/8020257649/212.ts
+http://14.102.123.50:5001/live/899.m3u8
 
 #EXTINF:-1 tvg-id="geminilife.in" tvg-name="GEMINI LIFE"  tvg-logo="https://i.imgur.com/QYVnr14.png" group-title="ENTERTAINMENT", GEMINI LIFE
-http://starshare.live:8080/live/7884362065/8020257649/9044.ts
+http://14.102.123.50:5001/live/684.m3u8
 
 #EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="GEMINI COMEDY" tvg-logo="https://i.imgur.com/xsXx4Qr.png" group-title="ENTERTAINMENT", GEMINI COMEDY
-http://starshare.live:8080/live/7884362065/8020257649/9042.ts
+http://14.102.123.50:5001/live/729.m3u8
 
 #EXTINF:-1 tvg-id="geminimusic.in" tvg-name="GEMINI MUSIC"  tvg-logo="https://i.imgur.com/sasTofi.png" group-title="MUSIC", GEMINI MUSIC 
 http://14.102.123.50:5001/live/898.m3u8
@@ -57,7 +57,6 @@ http://starshare.live:8080/live/7884362065/8020257649/243.ts
 #EXTINF:-1 tvg-id="VanithaTV.in" tvg-name="VANITHA TV" tvg-logo="http://logo.protv.cc/picons/logos/VANITHA-TV.jpg" group-title="LIFESTYLE", VANITHA TV
 http://14.102.123.50:5001/live/775.m3u8
 
-
 #EXTINF:-1 tvg-id="CVR HEALTH" tvg-name="CVR HEALTH" tvg-logo="https://i.imgur.com/n3MRq4N.png" group-title="LIFESTYLE", CVR HEALTH
 http://14.102.123.50:5001/live/774.m3u8
 
@@ -66,6 +65,9 @@ http://14.102.123.50:5001/live/1274.m3u8
 
 #EXTINF:-1 tvg-id="Studio Yuva" tvg-name="STUDIO YUVA" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="ENTERTAINMENT", STUDIO YUVA
 http://14.102.123.50:5001/live/1799.m3u8
+
+#EXTINF:-1 tvg-id=2065 tvg-name="Saregama Music" tvg-logo="https://i.imgur.com/dLcroXZ.png" group-title="MUSIC", SAREGAMA MUSIC
+http://14.102.123.50:5001/live/2065.m3u8
 
 #EXTINF:-1 tvg-id="MANA TV AP" tvg-name=" MANA TV AP" tvg-logo="https://i.imgur.com/OHmDE9p.png" group-title="NEWS",  MANA TV AP
 http://14.102.123.50:5001/live/1607.m3u8
@@ -330,7 +332,7 @@ http://110605519922767025.of51.xyz:80/live/vi31317/7NcaJueGuJ/767025.ts
 http://110605519922802229.of51.xyz:80/live/vi31317/7NcaJueGuJ/802229.ts
 
 #EXTINF:-1  tvg-id="Nick.in" tvg-name="NICK" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="KIDS", NICK 
-http://xtv.ooo:8080/MansoorWapda/258741/76722
+http://14.102.123.50:5001/live/543.m3u8
 
 #EXTINF:-1  tvg-id="SonyYAY.in" tvg-name="SONY YAY" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="KIDS", SONY YAY 
 http://110605519922831501.of51.xyz:80/live/vi31317/7NcaJueGuJ/831501.ts
@@ -351,7 +353,7 @@ http://110605519922812165.of51.xyz:80/live/vi31317/7NcaJueGuJ/812165.ts
 http://110605519922830800.of51.xyz:80/live/vi31317/7NcaJueGuJ/830800.ts
 
 #EXTINF:-1  tvg-id="NickJr.in" tvg-name="NICK JUNIOR" tvg-logo="https://i.imgur.com/SIPeyn0.png" group-title="KIDS", NICK JUNIOR
-http://xtv.ooo:8080/MansoorWapda/258741/153156
+http://14.102.123.50:5001/live/544.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="NICKELODEON" tvg-logo="https://i.imgur.com/T0dFpxB.png" group-title="KIDS", NICKELODEON
 http://iptvtree.net:8080/Isidorchait/ea940f8fd1/16391
@@ -377,7 +379,7 @@ http://mixbix.xyz:8080/nLaEDDdNc4Lz/B9nK8jU7dfWU/238973
 http://xtv.ooo:8080/54248765/34876543/206279
 
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="HISTORY TV 18" tvg-logo="https://i.imgur.com/9ZNRL8N.png" group-title="DOCUMENTARY", HISTORY TV 18 
-http://xtv.ooo:8080/54248765/34876543/206295
+http://14.102.123.50:5001/live/577.m3u8
 
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://i.imgur.com/BzOkwXi.jpg" group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC WILD
 http://xtv.ooo:8080/54248765/34876543/206285
@@ -386,7 +388,7 @@ http://xtv.ooo:8080/54248765/34876543/206285
 http://starshare.live:8080/live/7884362065/8020257649/223.ts
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/Nn4mWnI.jpg" group-title="DOCUMENTARY", DISCOVERY CHANNEL
-http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/279575
+http://14.102.123.50:5001/live/576.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicChannel.in" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/XKNFAyu.png" group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC 
 http://galabi.top:8080/71709493498141/deaf2f87979a/53553
