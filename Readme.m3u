@@ -16,13 +16,13 @@ http://14.102.123.50:5001/live/570.m3u8
 http://14.102.123.50:5001/live/692.m3u8
 
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="STAR MAA HD" tvg-logo="https://i.imgur.com/CmiuOI9.png" group-title="ENTERTAINMENT", STAR MAA HD
-http://starshare.live:8080/live/7884362065/8020257649/168.ts
+http://filex.tv:8080/munna/9090/455386
 
 #EXTINF:-1 tvg-id="starmaamovieshd.in" tvg-name="STAR MAA MOVIES" tvg-logo="https://i.imgur.com/UcGbJuw.jpg" group-title="ENTERTAINMENT", STAR MAA MOVIES 
-http://starshare.live:8080/live/7884362065/8020257649/9015.ts
+http://watchindia.net:8880/live/22453/32498/934.m3u8
 
 #EXTINF:-1 tvg-id="maagold.in" tvg-name="STAR MAA GOLD "  tvg-logo="https://i.imgur.com/rPVIPyW.jpg" group-title="ENTERTAINMENT", STAR MAA GOLD 
-http://starshare.live:8080/live/7884362065/8020257649/9043.ts
+http://watchindia.net:8880/live/22453/32498/935.m3u8
 
 #EXTINF:-1 tvg-id="MaaMusic.in" tvg-name="STAR MAA MUSIC"  tvg-logo="https://i.imgur.com/q5QX43C.jpg" group-title="MUSIC", STAR MAA MUSIC
 http://starshare.live:8080/live/554147/554147/57772.ts
@@ -43,16 +43,16 @@ http://14.102.123.50:5001/live/729.m3u8
 http://14.102.123.50:5001/live/898.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU" tvg-logo="https://i.imgur.com/uHOJMKY.jpg" group-title="ENTERTAINMENT", ZEE TELUGU
-http://starshare.live:8080/live/7884362065/8020257649/1605.ts
+http://filex.tv:8080/munna/9090/455391
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="ZEE CINEMALU" tvg-logo="https://i.imgur.com/disc086.png" group-title="ENTERTAINMENT", ZEE CINEMALU
-http://starshare.live:8080/live/7884362065/8020257649/9016.ts
+http://watchindia.net:8880/live/22453/32498/941.m3u8
 
 #EXTINF:-1 tvg-id="VissaTV.in" tvg-name="VISSA TV"  tvg-logo="https://i.imgur.com/SOYRw0B.png" group-title="ENTERTAINMENT", VISSA TV
-http://starshare.live:8080/live/7884362065/8020257649/244.ts
+http://watchindia.net:8880/live/22453/32498/942.m3u8
 
 #EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-name="RAJ MUSIC TELUGU"  tvg-logo="https://i.imgur.com/ijgxcWI.png" group-title="MUSIC", RAJ MUSIC TELUGU
-http://starshare.live:8080/live/7884362065/8020257649/243.ts
+http://watchindia.net:8880/live/22453/32498/957.m3u8
 
 #EXTINF:-1 tvg-id="VanithaTV.in" tvg-name="VANITHA TV" tvg-logo="http://logo.protv.cc/picons/logos/VANITHA-TV.jpg" group-title="LIFESTYLE", VANITHA TV
 http://14.102.123.50:5001/live/775.m3u8
@@ -320,22 +320,22 @@ http://103.139.171.5:5001/live.php?c=Nipuna&q=800&e=junk.m3u8
 ====================================KIDS=============================================================================
 
 #EXTINF:-1  tvg-id="Pogo.in" tvg-name="POGO" tvg-logo="https://i.imgur.com/96BYKkZ.jpg" group-title="KIDS", POGO 
-http://mixbix.xyz:8080/mLW2nMkArKNs/zMgjNRWVAzC6/238960
+http://filex.tv:8080/munna/9090/455490
 
 #EXTINF:-1  tvg-id="KushiTV.in" tvg-name="KUSHI TV" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="KIDS", KUSHI TV
 http://tr.redatvgold.com:80/0b14WRvtZckx/oW40Zf4h4t/155868
 
-#EXTINF:-1  tvg-id="Sonic.in" tvg-name="NICK SONIC" tvg-logo="https://i.imgur.com/zy2LrKp.jpg" group-title="KIDS", NICK SONIC
-http://110605519922767025.of51.xyz:80/live/vi31317/7NcaJueGuJ/767025.ts
+#EXTINF:-1  tvg-id="Sonic.in" tvg-name="NICK SONIC" tvg-logo="https://i.imgur.com/zy2LrKp.jpg" group-title="KIDS", SONIC
+http://filex.tv:8080/munna/9090/455491
 
 #EXTINF:-1  tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="KIDS", CARTOON NETWORK 
-http://110605519922802229.of51.xyz:80/live/vi31317/7NcaJueGuJ/802229.ts
+http://filex.tv:8080/munna/9090/455488
 
 #EXTINF:-1  tvg-id="Nick.in" tvg-name="NICK" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="KIDS", NICK 
-http://14.102.123.50:5001/live/543.m3u8
+http://filex.tv:8080/munna/9090/455492
 
 #EXTINF:-1  tvg-id="SonyYAY.in" tvg-name="SONY YAY" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="KIDS", SONY YAY 
-http://110605519922831501.of51.xyz:80/live/vi31317/7NcaJueGuJ/831501.ts
+http://filex.tv:8080/munna/9090/455389
 
 #EXTINF:-1  tvg-id="Hungama.in" tvg-name="HUNGAMA"  tvg-logo="https://i.imgur.com/cYVExRI.png" group-title="KIDS", HUNGAMA
 http://mixbix.xyz:8080/mLW2nMkArKNs/zMgjNRWVAzC6/238963
@@ -353,13 +353,13 @@ http://110605519922812165.of51.xyz:80/live/vi31317/7NcaJueGuJ/812165.ts
 http://110605519922830800.of51.xyz:80/live/vi31317/7NcaJueGuJ/830800.ts
 
 #EXTINF:-1  tvg-id="NickJr.in" tvg-name="NICK JUNIOR" tvg-logo="https://i.imgur.com/SIPeyn0.png" group-title="KIDS", NICK JUNIOR
-http://14.102.123.50:5001/live/544.m3u8
+http://filex.tv:8080/munna/9090/455489
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="NICKELODEON" tvg-logo="https://i.imgur.com/T0dFpxB.png" group-title="KIDS", NICKELODEON
-http://iptvtree.net:8080/Isidorchait/ea940f8fd1/16391
+http://watchindia.net:8880/live/22453/32498/2049.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-name="NICKTOONS" tvg-logo="https://i.imgur.com/xyY6OlN.png group-title="KIDS", NICKTOONS
-http://110605519922756102.of51.xyz:80/live/vi31317/7NcaJueGuJ/756102.ts
+http://watchindia.net:8880/live/22453/32498/2064.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://i.imgur.com/pjjX4rP.png" group-title="KIDS", BOOMERANG
 http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1931
@@ -497,22 +497,22 @@ http://xtv.ooo:8080/MansoorWapda/258741/206324
 http://starshare.live:8080/live/554147/554147/158899.ts
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.imgur.com/NambWyO.png" group-title="SPORTS", STAR SPORTS 1
-http://vo01.mohdtv.com:8880/voby5324/62119828/55273
+http://watchindia.net:8880/live/22453/32498/2232.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://i.imgur.com/yfslQep.png" group-title="SPORTS", STAR SPORTS 2 
-http://vo01.mohdtv.com:8880/voby5324/62119828/55272
+http://152.89.62.76:8880/60mk100012/14668115/55272
 
 #EXTINF:-1 tvg-id="StarSports3.in" tvg-name="STAR SPORTS 3 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", STAR SPORTS 3 
-http://vo01.mohdtv.com:8880/voby5324/62119828/55271
+http://152.89.62.76:8880/60mk100012/14668115/55271
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="STAR SPORTS SELCT 1 HD" tvg-logo="https://i.imgur.com/uzspvbf.png" group-title="SPORTS", STAR SPORTS SELECT 1 
-http://vo01.mohdtv.com:8880/voby5324/62119828/55270
+http://watchindia.net:8880/live/22453/32498/1070.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="STAR SPORTS SELCT 2 HD" tvg-logo="https://i.imgur.com/FZtlTVZ.png" group-title="SPORTS", STAR SPORTS SELCT 2 
-http://vo01.mohdtv.com:8880/voby5324/62119828/55269
+http://152.89.62.76:8880/60mk100012/14668115/55269
 
 #EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="STAR SPORTS HINDI" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", STAR SPORTS HINDI
-http://starshare.live:8080/live/554147/554147/124287.ts
+http://152.89.62.76:8880/60mk100012/14668115/55273
 
 #EXTINF:-1 tvg-id="StarSports1Tamil.in" tvg-name="STAR SPORTS 1 TAMIL HD" tvg-logo="https://i.imgur.com/5GVdQZV.jpg" group-title="SPORTS", STAR SPORTS 1 TAMIL HD
 http://starshare.live:8080/live/554147/554147/9722.ts
@@ -536,7 +536,7 @@ http://starshare.live:8080/live/554147/554147/29469.ts
 http://119.156.26.155:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="WILLOW CRICKET HD" tvg-logo="https://i.imgur.com/qRIhhay.png" group-title="SPORTS", WILLOW CRICKET HD
-http://vo01.mohdtv.com:8880/voby5324/62119828/55219
+http://152.89.62.76:8880/60mk100012/14668115/55219
 
 #EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="WILLOW EXTRA HD" tvg-logo="https://i.imgur.com/s27K3Zc.jpg" group-title="SPORTS",WILLOW EXTRA HD
 http://starshare.live:8080/live/554147/554147/5040.ts
