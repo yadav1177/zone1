@@ -16,10 +16,10 @@ http://14.102.123.50:5001/live/570.m3u8
 http://14.102.123.50:5001/live/692.m3u8
 
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="STAR MAA HD" tvg-logo="https://i.imgur.com/CmiuOI9.png" group-title="ENTERTAINMENT", STAR MAA HD
-http://filex.tv:8080/munna/9090/455386
+http://xtv.ooo:8080/live/0966717777/0966717777/244437.m3u8
 
 #EXTINF:-1 tvg-id="starmaamovieshd.in" tvg-name="STAR MAA MOVIES" tvg-logo="https://i.imgur.com/UcGbJuw.jpg" group-title="ENTERTAINMENT", STAR MAA MOVIES 
-http://watchindia.net:8880/live/22453/32498/934.m3u8
+http://xtv.ooo:8080/live/0966717777/0966717777/244438.m3u8
 
 #EXTINF:-1 tvg-id="maagold.in" tvg-name="STAR MAA GOLD "  tvg-logo="https://i.imgur.com/rPVIPyW.jpg" group-title="ENTERTAINMENT", STAR MAA GOLD 
 http://watchindia.net:8880/live/22453/32498/935.m3u8
@@ -426,22 +426,22 @@ https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
 http://starshare.live:8080/live/554147/554147/52504.ts
 
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV ANDHRA PRADESH" tvg-logo="https://i.imgur.com/pFNCRnf.png" group-title="NEWS", ETV ANDHRA PRADESH 
-http://starshare.live:8080/live/7884362065/8020257649/9046.ts
+http://xtv.ooo:8080/live/0966717777/0966717777/244463.m3u8
 
 #EXTINF:-1 tvg-id="ETVTelangana.in" tvg-name="ETV TELANGANA" tvg-logo="https://i.imgur.com/DkgvWTK.png" group-title="NEWS", ETV TELANGANA 
 http://starshare.live:8080/live/7884362065/8020257649/9050.ts
 
 #EXTINF:-1 tvg-id="sakshitv.in" tvg-name="SAKSHI TV" tvg-logo="https://i.imgur.com/rR434zM.jpg" group-title="NEWS", SAKSHI TV
-http://starshare.live:8080/live/7884362065/8020257649/9048.ts
+http://xtv.ooo:8080/live/0966717777/0966717777/244465.m3u8
 
-#EXTINF:-1 tvg-id="ABNTeluguNews.in" tvg-name="ABN NEWS" tvg-logo="https://i.imgur.com/aB5o7cE.png" group-title="NEWS", ABN NEWS
-http://starshare.live:8080/live/7884362065/8020257649/234.ts
+#EXTINF:-1 tvg-id="ABNTeluguNews.in" tvg-name="ABN NEWS" tvg-logo="https://i.imgur.com/aB5o7cE.png" group-title="NEWS", ABN ANDHRA JYOTHI NEWS
+http://xtv.ooo:8080/live/0966717777/0966717777/244466.m3u8
 
 #EXTINF:-1 tvg-id="4tvnews.in" tvg-name="NTV NEWS" tvg-logo="https://i.imgur.com/S4eV49a.png" group-title="NEWS", NTV NEWS
-http://starshare.live:8080/live/7884362065/8020257649/235.ts
+http://xtv.ooo:8080/live/0966717777/0966717777/244462.m3u8
 
 #EXTINF:-1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://i.imgur.com/RTYgric.png" group-title="NEWS",10 TV
-https://ythls.armelin.one/channel/UCfymZbh17_3T_UhgjkQ9fRQ.m3u8
+http://xtv.ooo:8080/live/0966717777/0966717777/244457.m3u8
 
 #EXTINF:-1 tvg-id="v6telugu.in" tvg-name="V6 NEWS" tvg-logo="https://i.imgur.com/rBmV30d.png" group-title="NEWS", V6 NEWS
 http://starshare.live:8080/live/7884362065/8020257649/228.ts
@@ -471,7 +471,7 @@ https://ythls.armelin.one/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
 https://ythls.armelin.one/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
 
 #EXTINF:-1 tvg-id="I News" tvg-name="I NEWS" tvg-logo="https://i.imgur.com/D30JrAC.png" group-title="NEWS", I NEWS
-https://ythls.armelin.one/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8
+http://xtv.ooo:8080/live/0966717777/0966717777/244468.m3u8
 
 #EXTINF:-1 tvg-id="HMTV" tvg-name="HMTV NEWS" tvg-logo="https://i.imgur.com/UYDApkI.png" group-title="NEWS", HMTV NEWS
 https://ythls.armelin.one/channel/UCNZOrs1QBt8cJnv9ud96qRA.m3u8
