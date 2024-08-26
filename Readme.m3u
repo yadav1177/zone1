@@ -145,7 +145,7 @@ http://14.102.123.50:5001/live/1426.m3u8
 
 ++++++++++++++++++++++++++++++++++++++++++++++DD INDIA +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 #EXTINF:-1 tvg-id="DDSaptagiri.in" tvg-name="DD SAPTAGIRI" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="GENERAL", DD SAPTAGIRI
-http://starshare.live:8080/live/7884362065/8020257649/4053.ts
+http://172.105.123.238:18002/play/a02k
 
 #EXTINF:-1 tvg-id="DDYadagiri.in" tvg-name="DD YADAGIRI" tvg-logo="https://i.imgur.com/nxnGXJz.png" group-title="GENERAL", DD YADAGIRI
 https://ythls.armelin.one/channel/UC6V4nVa0CQkoLZUlg9drmZA.m3u8
@@ -205,11 +205,56 @@ https://ythls.armelin.one/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 #EXTINF:-1 tvg-id="Metro TV" tvg-name="METRO TV" tvg-logo="https://i.imgur.com/5Esr4EC.jpg" group-title="LOCAL", METRO TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
 
+#EXTINF:-1  tvg-name="LOCAL" group-title="Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1200051642873567375927303.png",Paraja TV
+http://prajatv.mythrimediaindia.com:1935/prajatv/prajatv/index.m3u8
+
+#EXTINF:-1  tvg-name="The Way Tv" group-title="LOCAL" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2041247782338087961187209.png",The Way Tv
+http://198.144.149.206:8080/NOTV/THEWAYTV/index.m3u8?token=GTR
+
+#EXTINF:-1  tvg-name="New Tv" group-title="LOCAL" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2127483247316413473522500.png",New Tv
+http://newtvtelugu.phoenixcreations.online:1935/newtvtelugu/newtvtelugu/chunklist_w615754673.m3u8
+
+#EXTINF:-1  tvg-name="BBR Tv" group-title="LOCAL" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2028461646911551924218864.png",BBR Tv
+http://bbrtv.phoenixcreations.online:1935/bbrtv/bbrtv/chunklist_w1927464872.m3u8
+
+#EXTINF:-1  tvg-name="MA Telanagana Tv" group-title="LOCAL" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_200108841953982628392143.png",MA Telagana Tv
+http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/chunklist_w1691683123.m3u8
+
+#EXTINF:-1  tvg-name="Vihari Tv" group-title="LOCAL" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_2229337255893534153798290.png",Vihari Tv
+http://viharitv.phoenixcreations.online:1935/viharitv/viharitv/chunklist_w714070156.m3u8
+
+#EXTINF:-1  tvg-name="Rich Tv" group-title="LOCAL" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240320_2311003626446583516937604.png",Rich Tv
+http://richtv.stream.onecloudlive.in/richtv/richtvhd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-name="Saranya Tv" group-title="LOCAL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_0004491487972850725837434.png",Saranya Tv
+http://rikuta.in:1935/saranyatv/saranyatv/chunklist_w1267284690.m3u8
+
+#EXTINF:-1  tvg-name="Sri Chakra" group-title="LOCAL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_0954013476943898683982285.png", Sri Chakra Tv
+http://srichakra.mythrimediaindia.com:1935/srichakra/srichakra/chunklist_w922956034.m3u8
+
+#EXTINF:-1  tvg-name="Channel 9 News" group-title="LOCAL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_0059564769942902029181048.png", Channel 9 News
+http://channel9hd.in:1935/hd/hd/chunklist_w1051485029.m3u8
+
+#EXTINF:-1  tvg-name="BV9 News" group-title="LOCAL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_001633592039847427762589.png", BV9 News
+http://rikuta.in:1935/bv9/bv9/chunklist_w1435248932.m3u8
+
 #EXTINF:-1 tvg-id="Gatla TV" tvg-name="GATLA TV" tvg-logo="https://i.imgur.com/y2ZYwNC.jpg" group-title="LOCAL", GATLA TV
 http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
 
-#EXTINF:-1 tvg-id="ETNow.in" tvg-name="ZILLA VANI" tvg-logo="https://i.imgur.com/OpDSRQc.jpg" group-title="LOCAL", ZILLA VANI
+#EXTINF: -1 tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1051442084278202918846578.png" group-title="LOCAL", S9 Channel
+https://sharsolution.in/hls/s9tv/s9tv.m3u8
+
+#EXTINF: -1 tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1050442769408737744234059.png" group-title="LOCAL", Cowa TV
+http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zilla vani" tvg-name="ZILLA VANI" tvg-logo="https://i.imgur.com/OpDSRQc.jpg" group-title="LOCAL", ZILLA VANI
 https://streaming.livebox.co.in/vedhikahls/live.m3u8
+
+#EXTINF:-1  tvg-name="Samskuruthi TV" group-title="LOCAL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1226044069751046667525230.png",Samskuruthi TV
+http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist.m3u8
+
+#EXTINF:-1  tvg-name="MASTI MUSIC" tvg-logo="https://i.imgur.com/ABIstef.png" group-title="LOCAL", MASTI MUSIC
+https://cloud.smartplaytv.in/MastiMusic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Bhavya_tv" tvg-name="BHAVYA TV" tvg-logo="https://i.imgur.com/fX2Ci8I.jpg" group-title="LOCAL", BHAVYA TV
 http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
@@ -232,12 +277,20 @@ http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
 #EXTINF:-1 tvg-id="TN24/7News" tvg-name="TELANGANA SANSKRUTI" tvg-logo="https://i.imgur.com/WRnV5Fc.jpg.jpg" group-title="LOCAL", TELANGANA SANSKRUTI
 http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist.m3u8
 
+#EXTINF:-1  tvg-name="BBR Tv" group-title="LOCAL" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2028461646911551924218864.png",BBR Tv
+http://bbrtv.phoenixcreations.online:1935/bbrtv/bbrtv/chunklist_w1927464872.m3u8
+
+#EXTINF:-1  tvg-name="The Way Tv" group-title="LOCAL" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2041247782338087961187209.png",The Way Tv
+http://198.144.149.206:8080/NOTV/THEWAYTV/index.m3u8?token=GTR
+
+#EXTINF:-1  tvg-name="New Tv" group-title="LOCAL" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2127483247316413473522500.png",New Tv
+http://newtvtelugu.phoenixcreations.online:1935/newtvtelugu/newtvtelugu/chunklist_w615754673.m3u8
+
 #EXTINF:-1 tvg-id="V9 Studio News" tvg-name="V9 STUDIO NEWS" tvg-logo="https://i.imgur.com/eKJ9IJv.jpg" group-title="LOCAL", V9 STUDIO NEWS
 http://183.87.51.10/hls/V9studio.m3u8
 
 #EXTINF:-1 tvg-id="V9 Studio News" tvg-name="VINODAM" tvg-logo="https://i.imgur.com/FBGv3Et.jpg" group-title="LOCAL", VINODAM 
-https://sharsolution.in/hls/vinodam/vinodam.m3u8
-
+  
 #EXTINF:-1 tvg-id="V9 Studio News" tvg-name="MEE TV" tvg-logo="https://i.imgur.com/ZxpilN8.png" group-title="LOCAL",MEE TV
 https://sharsolution.in/hls/meetv/meetv.m3u8
 
