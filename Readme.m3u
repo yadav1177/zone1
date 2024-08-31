@@ -94,7 +94,7 @@ http://14.102.123.50:5001/live/1254.m3u8
 #EXTINF: -1 tvg-id="955" tvg-name=HINDU DHARMAM" tvg-logo="https://i.imgur.com/CqzVI8u.png group-title=" RELIGIOUS", HINDU DHARMAM
 http://14.102.123.50:5001/live/955.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CVR OM Spiritual" tvg-logo="http://logo.protv.cc/picons/logos/CVROM.jpg" group-title="Devotional", CVR OM Spiritual
+#EXTINF:-1 tvg-id="" tvg-name="CVR OM Spiritual" tvg-logo="https://i.imgur.com/OSASigu.png group-title="Devotional", CVR OM SPIRITUAL
 http://14.102.123.50:5001/live/772.m3u8
 
 #EXTINF:-1 tvg-id="Sai TV" tvg-name="SAI TV" tvg-logo="https://i.imgur.com/IfBCZFB.png" group-title="RELIGIOUS", SAI TV
