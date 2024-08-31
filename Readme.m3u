@@ -60,10 +60,10 @@ http://14.102.123.50:5001/live/775.m3u8
 #EXTINF:-1 tvg-id="CVR HEALTH" tvg-name="CVR HEALTH" tvg-logo="https://i.imgur.com/n3MRq4N.png" group-title="LIFESTYLE", CVR HEALTH
 http://14.102.123.50:5001/live/774.m3u8
 
-#EXTINF:-1 tvg-id="studio one" tvg-name="STUDIO ONE" tvg-logo="https://i.imgur.com/o4TszHe.jpg" group-title="ENTERTAINMENT", STUDIO ONE
+#EXTINF:-1 tvg-id="studio one" tvg-name="STUDIO ONE" tvg-logo="https://i.imgur.com/jldGnQa.jpg" group-title="ENTERTAINMENT", STUDIO ONE
 http://14.102.123.50:5001/live/1274.m3u8
 
-#EXTINF:-1 tvg-id="Studio Yuva" tvg-name="STUDIO YUVA" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="ENTERTAINMENT", STUDIO YUVA
+#EXTINF:-1 tvg-id="Studio Yuva" tvg-name="STUDIO YUVA" tvg-logo="https://i.imgur.com/dikx5gr.png" group-title="ENTERTAINMENT", STUDIO YUVA
 http://14.102.123.50:5001/live/1799.m3u8
 
 #EXTINF:-1 tvg-id=2065 tvg-name="Saregama Music" tvg-logo="https://i.imgur.com/dLcroXZ.png" group-title="MUSIC", SAREGAMA MUSIC
