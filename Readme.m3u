@@ -51,7 +51,7 @@ http://watchindia.net:8880/live/22453/32498/941.m3u8
 #EXTINF:-1 tvg-id="VissaTV.in" tvg-name="VISSA TV"  tvg-logo="https://i.imgur.com/SOYRw0B.png" group-title="ENTERTAINMENT", VISSA TV
 http://watchindia.net:8880/live/22453/32498/942.m3u8
 
-#EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-name="RAJ MUSIC TELUGU"  tvg-logo="https://i.imgur.com/ijgxcWI.png" group-title="MUSIC", RAJ MUSIC TELUGU
+#EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-name="RAJ MUSIC TELUGU"  tvg-logo="https://i.imgur.com/b2A7eY0.png" group-title="MUSIC", RAJ MUSIC TELUGU
 http://watchindia.net:8880/live/22453/32498/957.m3u8
 
 #EXTINF:-1 tvg-id="VanithaTV.in" tvg-name="VANITHA TV" tvg-logo="http://logo.protv.cc/picons/logos/VANITHA-TV.jpg" group-title="LIFESTYLE", VANITHA TV
