@@ -9,10 +9,10 @@ http://14.102.123.50:5001/live/252.m3u8
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/J7UcNO3.png" group-title="LIFESTYLE", ETV ABHIRUCHI
 http://14.102.123.50:5001/live/565.m3u8
 
-#EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="https://i.imgur.com/FSkhFIP.png" group-title="LIFESTYLE", ETV LIFE
+#EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="https://i.imgur.com/goYxcA3.png" group-title="LIFESTYLE", ETV LIFE
 http://14.102.123.50:5001/live/570.m3u8
 
-#EXTINF:-1 tvg-id="etvplus.in" tvg-name="ETV PLUS" tvg-logo="https://i.imgur.com/acCP6hZ.png" group-title="LIFESTYLE", ETV PLUS
+#EXTINF:-1 tvg-id="etvplus.in" tvg-name="ETV PLUS" tvg-logo="https://i.imgur.com/W6uqblu.png" group-title="LIFESTYLE", ETV PLUS
 http://14.102.123.50:5001/live/692.m3u8
 
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="STAR MAA HD" tvg-logo="https://i.imgur.com/CmiuOI9.png" group-title="ENTERTAINMENT", STAR MAA HD
@@ -24,10 +24,10 @@ http://ktv.im:8080/111222/222111/83920
 #EXTINF:-1 tvg-id="maagold.in" tvg-name="STAR MAA GOLD "  tvg-logo="https://i.imgur.com/rPVIPyW.jpg" group-title="ENTERTAINMENT", STAR MAA GOLD 
 http://ktv.im:8080/111222/222111/83892
 
-#EXTINF:-1 tvg-id="MaaMusic.in" tvg-name="STAR MAA MUSIC"  tvg-logo="https://i.imgur.com/q5QX43C.jpg" group-title="MUSIC", STAR MAA MUSIC
+#EXTINF:-1 tvg-id="MaaMusic.in" tvg-name="STAR MAA MUSIC"  tvg-logo="https://i.imgur.com/BCK7Q6j.jpg" group-title="MUSIC", STAR MAA MUSIC
 http://ktv.im:8080/111222/222111/83934
 
-#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="GEMINI TV " tvg-logo="https://i.imgur.com/sNAGAf9.png" group-title="ENTERTAINMENT", GEMINI TV 
+#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="GEMINI TV " tvg-logo="https://i.imgur.com/LGOZBP0.png" group-title="ENTERTAINMENT", GEMINI TV 
 http://14.102.123.50:5001/live/897.m3u8
 
 #EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="GEMINI MOVIES" tvg-logo="https://i.imgur.com/IOA119X.png" group-title="MOVIES", GEMINI MOVIES
@@ -43,7 +43,7 @@ http://14.102.123.50:5001/live/729.m3u8
 http://14.102.123.50:5001/live/898.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU" tvg-logo="https://i.imgur.com/Ad46U96.png" group-title="ENTERTAINMENT", ZEE TELUGU
-http://116.202.46.40:9023/ZEE_TELUGU/index.m3u8
+http://ktv.im:8080/111222/222111/83894
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="ZEE CINEMALU" tvg-logo="https://i.imgur.com/disc086.png" group-title="ENTERTAINMENT", ZEE CINEMALU
 http://watchindia.net:8880/live/22453/32498/941.m3u8
