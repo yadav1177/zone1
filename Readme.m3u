@@ -493,7 +493,7 @@ http://xtv.ooo:8080/live/0966717777/0966717777/244466.m3u8
 #EXTINF:-1 tvg-id="4tvnews.in" tvg-name="NTV NEWS" tvg-logo="https://i.imgur.com/S4eV49a.png" group-title="NEWS", NTV NEWS
 http://xtv.ooo:8080/live/0966717777/0966717777/244462.m3u8
 
-#EXTINF:-1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://i.imgur.com/RTYgric.png" group-title="NEWS",10 TV
+#EXTINF:-1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://i.imgur.com/RTYgric.png" group-title="NEWS", 10 TV
 http://xtv.ooo:8080/live/0966717777/0966717777/244457.m3u8
 
 #EXTINF:-1 tvg-id="v6telugu.in" tvg-name="V6 NEWS" tvg-logo="https://i.imgur.com/rBmV30d.png" group-title="NEWS", V6 NEWS
@@ -568,10 +568,10 @@ http://66302773028785042.ofse0829.xyz:80/live/vi312323/8CRMp446Ugj/785042.ts
 http://152.89.62.76:8880/60mk100012/14668115/55273
 
 #EXTINF:-1 tvg-id="StarSports1Tamil.in" tvg-name="STAR SPORTS 1 TAMIL HD" tvg-logo="https://i.imgur.com/5GVdQZV.jpg" group-title="SPORTS", STAR SPORTS 1 TAMIL HD
-http://starshare.live:8080/live/554147/554147/9722.ts
+http://starshare.live:8080/live/9826816920/8625825719/9722.ts
 
 #EXTINF:-1 tvg-id="288" tvg-name="STAR SPORTS 1 TELUGU HD" tvg-logo="https://i.imgur.com/K3AYCiN.jpg" group-title="SPORTS", STAR SPORTS 1 TELUGU HD
-http://starshare.live:8080/live/554147/554147/177843.ts
+http://starshare.live:8080/live/9826816920/8625825719/177843.ts
 
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="SONY SPORTS 1 HD"  tvg-logo="https://i.imgur.com/X7ZOQg6.jpg" group-title="SPORTS", SONY SPORTS 1 HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/55284
