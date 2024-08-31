@@ -27,7 +27,7 @@ http://ktv.im:8080/111222/222111/83892
 #EXTINF:-1 tvg-id="MaaMusic.in" tvg-name="STAR MAA MUSIC"  tvg-logo="https://i.imgur.com/BCK7Q6j.jpg" group-title="MUSIC", STAR MAA MUSIC
 http://ktv.im:8080/111222/222111/83934
 
-#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="GEMINI TV " tvg-logo="https://i.imgur.com/n7zphBo.png" group-title="ENTERTAINMENT", GEMINI TV 
+#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="GEMINI TV " tvg-logo="https://i.imgur.com/vrhpeGk.jpg" group-title="ENTERTAINMENT", GEMINI TV 
 http://14.102.123.50:5001/live/897.m3u8
 
 #EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="GEMINI MOVIES" tvg-logo="https://i.imgur.com/IOA119X.png" group-title="MOVIES", GEMINI MOVIES
