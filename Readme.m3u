@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://i.imgur.com/P2BH1YL.png" group-title="ENTERTAINMENT", ETV HD
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://i.imgur.com/1utd9rz.png" group-title="ENTERTAINMENT", ETV HD
 http://14.102.123.50:5001/live/629.m3u8
 
 #EXTINF:-1 tvg-id="etvcinema.in" tvg-name="ETV CINEMA" tvg-logo="https://i.imgur.com/zqsI929.png" group-title="ENTERTAINMENT", ETV CINEMA
@@ -16,16 +16,16 @@ http://14.102.123.50:5001/live/570.m3u8
 http://14.102.123.50:5001/live/692.m3u8
 
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="STAR MAA HD" tvg-logo="https://i.imgur.com/CmiuOI9.png" group-title="ENTERTAINMENT", STAR MAA HD
-http://xtv.ooo:8080/live/0966717777/0966717777/244437.m3u8
+http://ktv.im:8080/111222/222111/83888
 
 #EXTINF:-1 tvg-id="starmaamovieshd.in" tvg-name="STAR MAA MOVIES" tvg-logo="https://i.imgur.com/UcGbJuw.jpg" group-title="ENTERTAINMENT", STAR MAA MOVIES 
-http://xtv.ooo:8080/live/0966717777/0966717777/244438.m3u8
+http://ktv.im:8080/111222/222111/83920
 
 #EXTINF:-1 tvg-id="maagold.in" tvg-name="STAR MAA GOLD "  tvg-logo="https://i.imgur.com/rPVIPyW.jpg" group-title="ENTERTAINMENT", STAR MAA GOLD 
-http://watchindia.net:8880/live/22453/32498/935.m3u8
+http://ktv.im:8080/111222/222111/83892
 
 #EXTINF:-1 tvg-id="MaaMusic.in" tvg-name="STAR MAA MUSIC"  tvg-logo="https://i.imgur.com/q5QX43C.jpg" group-title="MUSIC", STAR MAA MUSIC
-http://starshare.live:8080/live/554147/554147/57772.ts
+http://ktv.im:8080/111222/222111/83934
 
 #EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="GEMINI TV " tvg-logo="https://i.imgur.com/sNAGAf9.png" group-title="ENTERTAINMENT", GEMINI TV 
 http://14.102.123.50:5001/live/897.m3u8
@@ -42,7 +42,7 @@ http://14.102.123.50:5001/live/729.m3u8
 #EXTINF:-1 tvg-id="geminimusic.in" tvg-name="GEMINI MUSIC"  tvg-logo="https://i.imgur.com/sasTofi.png" group-title="MUSIC", GEMINI MUSIC 
 http://14.102.123.50:5001/live/898.m3u8
 
-#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU" tvg-logo="https://i.imgur.com/uHOJMKY.jpg" group-title="ENTERTAINMENT", ZEE TELUGU
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU" tvg-logo="https://i.imgur.com/Ad46U96.png" group-title="ENTERTAINMENT", ZEE TELUGU
 http://116.202.46.40:9023/ZEE_TELUGU/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="ZEE CINEMALU" tvg-logo="https://i.imgur.com/disc086.png" group-title="ENTERTAINMENT", ZEE CINEMALU
