@@ -4,10 +4,10 @@
 http://14.102.123.50:5001/live/629.m3u8
 
 #EXTINF:-1 tvg-id="etvcinema.in" tvg-name="ETV CINEMA" tvg-logo="https://i.imgur.com/zqsI929.png" group-title="ENTERTAINMENT", ETV CINEMA
-http://14.102.123.50:5001/live/252.m3u8
+http://xtv.ooo:8080/874246786/743567899/250851
 
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/J7UcNO3.png" group-title="LIFESTYLE", ETV ABHIRUCHI
-http://343566917203910884.ofbo903.xyz:80/live/mi25535/tKV6wD@yyDP/910884.ts
+http://xtv.ooo:8080/874246786/743567899/381112
 
 #EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="https://i.imgur.com/goYxcA3.png" group-title="LIFESTYLE", ETV LIFE
 http://14.102.123.50:5001/live/570.m3u8
@@ -31,7 +31,7 @@ http://ktv.im:8080/111222/222111/83934
 http://14.102.123.50:5001/live/897.m3u8
 
 #EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="GEMINI MOVIES" tvg-logo="https://i.imgur.com/IOA119X.png" group-title="MOVIES", GEMINI MOVIES
-http://14.102.123.50:5001/live/899.m3u8
+http://152.89.62.76:8880/60mk100012/14668115/1900
 
 #EXTINF:-1 tvg-id="geminilife.in" tvg-name="GEMINI LIFE"  tvg-logo="https://i.imgur.com/QYVnr14.png" group-title="ENTERTAINMENT", GEMINI LIFE
 http://14.102.123.50:5001/live/684.m3u8
@@ -40,7 +40,7 @@ http://14.102.123.50:5001/live/684.m3u8
 http://14.102.123.50:5001/live/729.m3u8
 
 #EXTINF:-1 tvg-id="geminimusic.in" tvg-name="GEMINI MUSIC"  tvg-logo="https://i.imgur.com/sasTofi.png" group-title="MUSIC", GEMINI MUSIC 
-http://14.102.123.50:5001/live/898.m3u8
+http://xtv.ooo:8080/874246786/743567899/250852
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU" tvg-logo="https://i.imgur.com/Ad46U96.png" group-title="ENTERTAINMENT", ZEE TELUGU
 http://ktv.im:8080/111222/222111/83894
