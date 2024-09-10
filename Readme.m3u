@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://i.imgur.com/ygV5pkS.png" group-title="ENTERTAINMENT", ETV HD
-http://14.102.123.50:5001/live/629.m3u8
+http://ktv.im:8080/8000865368/4663112367/83898
 
 #EXTINF:-1 tvg-id="etvcinema.in" tvg-name="ETV CINEMA" tvg-logo="https://i.imgur.com/zqsI929.png" group-title="ENTERTAINMENT", ETV CINEMA
 http://xtv.ooo:8080/874246786/743567899/250851
 
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/J7UcNO3.png" group-title="LIFESTYLE", ETV ABHIRUCHI
-http://xtv.ooo:8080/874246786/743567899/381112
+http://ktv.im:8080/8000865368/4663112367/83911
 
 #EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="https://i.imgur.com/goYxcA3.png" group-title="LIFESTYLE", ETV LIFE
-http://14.102.123.50:5001/live/570.m3u8
+http://ktv.im:8080/8000865368/4663112367/83948
 
 #EXTINF:-1 tvg-id="etvplus.in" tvg-name="ETV PLUS" tvg-logo="https://i.imgur.com/I69HWD3.png" group-title="LIFESTYLE", ETV PLUS
-http://14.102.123.50:5001/live/692.m3u8
+http://ktv.im:8080/8000865368/4663112367/83912
 
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="STAR MAA HD" tvg-logo="https://i.imgur.com/xaugX6V.png" group-title="ENTERTAINMENT", STAR MAA HD
 http://ktv.im:8080/111222/222111/83888
@@ -28,31 +28,31 @@ http://ktv.im:8080/111222/222111/83892
 http://ktv.im:8080/111222/222111/83934
 
 #EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="GEMINI TV " tvg-logo="https://i.imgur.com/vrhpeGk.jpg" group-title="ENTERTAINMENT", GEMINI TV 
-http://14.102.123.50:5001/live/897.m3u8
+http://ktv.im:8080/8000865368/4663112367/83902
 
 #EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="GEMINI MOVIES" tvg-logo="https://i.imgur.com/IOA119X.png" group-title="MOVIES", GEMINI MOVIES
 http://152.89.62.76:8880/60mk100012/14668115/1900
 
 #EXTINF:-1 tvg-id="geminilife.in" tvg-name="GEMINI LIFE"  tvg-logo="https://i.imgur.com/QYVnr14.png" group-title="ENTERTAINMENT", GEMINI LIFE
-http://14.102.123.50:5001/live/684.m3u8
+http://ktv.im:8080/8000865368/4663112367/83910
 
 #EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="GEMINI COMEDY" tvg-logo="https://i.imgur.com/xsXx4Qr.png" group-title="ENTERTAINMENT", GEMINI COMEDY
 http://14.102.123.50:5001/live/729.m3u8
 
 #EXTINF:-1 tvg-id="geminimusic.in" tvg-name="GEMINI MUSIC"  tvg-logo="https://i.imgur.com/sasTofi.png" group-title="MUSIC", GEMINI MUSIC 
-http://xtv.ooo:8080/874246786/743567899/250852
+http://ktv.im:8080/8000865368/4663112367/83907
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU" tvg-logo="https://i.imgur.com/Ad46U96.png" group-title="ENTERTAINMENT", ZEE TELUGU
-http://ktv.im:8080/111222/222111/83894
+http://ktv.im:8080/8000865368/4663112367/83896
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="ZEE CINEMALU" tvg-logo="https://i.imgur.com/disc086.png" group-title="ENTERTAINMENT", ZEE CINEMALU
-http://watchindia.net:8880/live/22453/32498/941.m3u8
+http://ktv.im:8080/8000865368/4663112367/83924
 
 #EXTINF:-1 tvg-id="VissaTV.in" tvg-name="VISSA TV"  tvg-logo="https://i.imgur.com/SOYRw0B.png" group-title="ENTERTAINMENT", VISSA TV
-http://watchindia.net:8880/live/22453/32498/942.m3u8
+http://ktv.im:8080/8000865368/4663112367/83915
 
 #EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-name="RAJ MUSIC TELUGU"  tvg-logo="https://i.imgur.com/b2A7eY0.png" group-title="MUSIC", RAJ MUSIC TELUGU
-http://watchindia.net:8880/live/22453/32498/957.m3u8
+http://ktv.im:8080/8000865368/4663112367/83932
 
 #EXTINF:-1 tvg-id="VanithaTV.in" tvg-name="VANITHA TV" tvg-logo="http://logo.protv.cc/picons/logos/VANITHA-TV.jpg" group-title="LIFESTYLE", VANITHA TV
 http://14.102.123.50:5001/live/775.m3u8
