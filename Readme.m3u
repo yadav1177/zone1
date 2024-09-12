@@ -241,16 +241,19 @@ http://rikuta.in:1935/bv9/bv9/chunklist_w1435248932.m3u8
 #EXTINF:-1 tvg-id="Gatla TV" tvg-name="GATLA TV" tvg-logo="https://i.imgur.com/y2ZYwNC.jpg" group-title="LOCAL", GATLA TV
 http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
 
-#EXTINF: -1 tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1051442084278202918846578.png" group-title="LOCAL", S9 Channel
+#EXTINF:-1 tvg-id="My3 Telugu" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/my3telugu.jpg" " group-title="LOCAL", My3 Telugu
+http://telugusolutions.com:8088/my3telugu/my3telugu.m3u8
+
+#EXTINF: -1 tvg-id="S9 Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1051442084278202918846578.png" group-title="LOCAL", S9 Channel
 https://sharsolution.in/hls/s9tv/s9tv.m3u8
 
-#EXTINF: -1 tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1050442769408737744234059.png" group-title="LOCAL", Cowa TV
+#EXTINF: -1 tvg-id="Cowa TV"tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1050442769408737744234059.png" group-title="LOCAL", COWA TV
 http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="zilla vani" tvg-name="ZILLA VANI" tvg-logo="https://i.imgur.com/OpDSRQc.jpg" group-title="LOCAL", ZILLA VANI
+#EXTINF:-1 tvg-id="ZILLA VANI" tvg-name="ZILLA VANI" tvg-logo="https://i.imgur.com/OpDSRQc.jpg" group-title="LOCAL", ZILLA VANI
 https://streaming.livebox.co.in/vedhikahls/live.m3u8
 
-#EXTINF:-1  tvg-name="Samskuruthi TV" group-title="LOCAL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1226044069751046667525230.png",Samskuruthi TV
+#EXTINF:-1  tvg-id="SAMSKURITHI TV" tvg-name="SAMSKURITHI TV" group-title="LOCAL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1226044069751046667525230.png", SAMSKURITHI TV
 http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist.m3u8
 
 #EXTINF:-1  tvg-name="MASTI MUSIC" tvg-logo="https://i.imgur.com/ABIstef.png" group-title="LOCAL", MASTI MUSIC
