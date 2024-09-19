@@ -28,7 +28,7 @@ http://ktv.im:8080/111222/222111/83892
 http://ktv.im:8080/111222/222111/83934
 
 #EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="GEMINI TV " tvg-logo="https://i.imgur.com/vrhpeGk.jpg" group-title="ENTERTAINMENT", GEMINI TV 
-http://starshare.live:8080/live/19031903/19031903/214.ts
+http://livetvbox.live:8080/live/Ben/Ben/23315.ts
 
 #EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="GEMINI MOVIES" tvg-logo="https://i.imgur.com/IOA119X.png" group-title="MOVIES", GEMINI MOVIES
 http://152.89.62.76:8880/60mk100012/14668115/1900
@@ -37,13 +37,13 @@ http://152.89.62.76:8880/60mk100012/14668115/1900
 http://ktv.im:8080/8000865368/4663112367/83910
 
 #EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="GEMINI COMEDY" tvg-logo="https://i.imgur.com/xsXx4Qr.png" group-title="ENTERTAINMENT", GEMINI COMEDY
-http://starshare.live:8080/live/19031903/19031903/9042.ts
+http://livetvbox.live:8080/live/Ben/Ben/9042.ts
 
 #EXTINF:-1 tvg-id="geminimusic.in" tvg-name="GEMINI MUSIC"  tvg-logo="https://i.imgur.com/sasTofi.png" group-title="MUSIC", GEMINI MUSIC 
 http://ktv.im:8080/8000865368/4663112367/83907
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU" tvg-logo="https://i.imgur.com/Ad46U96.png" group-title="ENTERTAINMENT", ZEE TELUGU
-http://gtvstreams.me:80/johndoe/johndoe/792707
+http://livetvbox.live:8080/live/Ben/Ben/1605.ts
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="ZEE CINEMALU" tvg-logo="https://i.imgur.com/disc086.png" group-title="ENTERTAINMENT", ZEE CINEMALU
 http://ktv.im:8080/8000865368/4663112367/83924
@@ -376,16 +376,16 @@ http://103.139.171.5:5001/live.php?c=Nipuna&q=800&e=junk.m3u8
 ====================================KIDS=============================================================================
 
 #EXTINF:-1  tvg-id="Pogo.in" tvg-name="POGO" tvg-logo="https://i.imgur.com/96BYKkZ.jpg" group-title="KIDS", POGO 
-http://filex.tv:8080/munna/9090/455490
+http://livetvbox.live:8080/live/Ben/Ben/1918.ts
 
 #EXTINF:-1  tvg-id="KushiTV.in" tvg-name="KUSHI TV" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="KIDS", KUSHI TV
-http://starshare.live:8080/live/19031903/19031903/355504.ts
+http://livetvbox.live:8080/live/Ben/Ben/355504.ts
 
 #EXTINF:-1  tvg-id="Sonic.in" tvg-name="NICK SONIC" tvg-logo="https://i.imgur.com/zy2LrKp.jpg" group-title="KIDS", SONIC
-http://filex.tv:8080/munna/9090/455491
+http://livetvbox.live:8080/live/Ben/Ben/121290.ts
 
 #EXTINF:-1  tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="KIDS", CARTOON NETWORK 
-http://filex.tv:8080/munna/9090/455488
+http://livetvbox.live:8080/live/Ben/Ben/231007.ts
 
 #EXTINF:-1  tvg-id="Nick.in" tvg-name="NICK" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="KIDS", NICK 
 http://filex.tv:8080/munna/9090/455492
@@ -397,25 +397,25 @@ http://filex.tv:8080/munna/9090/455389
 http://mixbix.xyz:8080/mLW2nMkArKNs/zMgjNRWVAzC6/238963
 
 #EXTINF:-1  tvg-id="" tvg-name="BABY TV" tvg-logo="https://i.imgur.com/bFtkF5H.jpg" group-title=" KIDS", BABY TV
-http://110605519922307575.of51.xyz:80/live/vi31317/7NcaJueGuJ/307575.ts
+http://livetvbox.live:8080/live/Ben/Ben/671.ts
 
 #EXTINF:-1  tvg-id="DisneyChannel.in" tvg-name="DISNEY CHANNEL"tvg-logo="https://i.imgur.com/aOkXvqg.png" group-title="KIDS", DISNEY CHANNEL
-http://110605519922834471.of51.xyz:80/live/vi31317/7NcaJueGuJ/834471.ts
+http://livetvbox.live:8080/live/Ben/Ben/145079.ts
 
 #EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.imgur.com/XkTwaby.png" group-title=" KIDS", DISNEY JUNIOR
-http://110605519922812165.of51.xyz:80/live/vi31317/7NcaJueGuJ/812165.ts
+http://livetvbox.live:8080/live/Ben/Ben/207676.ts
 
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" tvg-logo="https://i.imgur.com/UE7TW2L.png" group-title="KIDS", DISNEY XD
-http://110605519922830800.of51.xyz:80/live/vi31317/7NcaJueGuJ/830800.ts
+http://livetvbox.live:8080/live/Ben/Ben/1492.ts
 
 #EXTINF:-1  tvg-id="NickJr.in" tvg-name="NICK JUNIOR" tvg-logo="https://i.imgur.com/SIPeyn0.png" group-title="KIDS", NICK JUNIOR
-http://filex.tv:8080/munna/9090/455489
+http://livetvbox.live:8080/live/Ben/Ben/38.ts
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="NICKELODEON" tvg-logo="https://i.imgur.com/T0dFpxB.png" group-title="KIDS", NICKELODEON
 http://watchindia.net:8880/live/22453/32498/2049.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-name="NICKTOONS" tvg-logo="https://i.imgur.com/xyY6OlN.png group-title="KIDS", NICKTOONS
-http://watchindia.net:8880/live/22453/32498/2064.m3u8
+http://livetvbox.live:8080/live/Ben/Ben/1535.ts
 
 #EXTINF:-1  tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://i.imgur.com/pjjX4rP.png" group-title="KIDS", BOOMERANG
 http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1931
