@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="etvhd.in" tvg-name="OM NAMO VENKTESAYA " tvg-logo="https://i.imgur.com/VVJfSRQ.png" group-title="VIDEO SONGS", OM NAMO VENKTESAYA 
-https://github.com/user-attachments/assets/b05d6a07-dcf5-47b5-a7bb-e90b31284815
-
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://i.imgur.com/ygV5pkS.png" group-title="ENTERTAINMENT", ETV HD
 http://ktv.im:8080/8000865368/4663112367/83898
 
