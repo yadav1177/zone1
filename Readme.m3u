@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="OM NAMO VENKATESAYA" tvg-logo="https://i.imgur.com/VVJfSRQ.png" group-title="DEVOTIONAL"", OM NAMO VENKATESAYA
+https://github.com/user-attachments/assets/647fc793-3f01-4887-933c-766041e27ab8
+
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://i.imgur.com/ygV5pkS.png" group-title="ENTERTAINMENT", ETV HD
 http://ktv.im:8080/8000865368/4663112367/83898
 
@@ -136,10 +139,10 @@ http://14.102.123.50:5001/live/1422.m3u8
 #EXTINF:-1 tvg-id=1423 tvg-name="Babulnaath Mumbai" tvg-logo="http://14.102.123.50:5001/jtvimage/Babulnaath_Mumbai.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", Babulnaath Mumbai
 http://14.102.123.50:5001/live/1423.m3u8
 
-#EXTINF:-1 tvg-id=1424 tvg-name="Mumbadevi Mumbai" tvg-logo="http://14.102.123.50:5001/jtvimage/Mumbadevi_Mumbai.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", Mumbadevi Mumbai
+#EXTINF:-1 tvg-id=1424 tvg-name="Mumbadevi Mumbai" tvg-logo="http://14.102.123.50:5001/jtvimage/Mumbadevi_Mumbai.png" tvg-language="Marathi" tvg-type="DEVOTIONAL"" group-title="Devotional", Mumbadevi Mumbai
 http://14.102.123.50:5001/live/1424.m3u8
 
-#EXTINF:-1 tvg-id=1426 tvg-name="Santvani" tvg-logo="http://14.102.123.50:5001/jtvimage/Santvani.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Santvani
+#EXTINF:-1 tvg-id=1426 tvg-name="Santvani" tvg-logo="http://14.102.123.50:5001/jtvimage/Santvani.png" tvg-language="Hindi" tvg-type="Devotional" group-title="DEVOTIONAL", Santvani
 http://14.102.123.50:5001/live/1426.m3u8
 
 
