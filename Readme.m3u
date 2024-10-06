@@ -6,9 +6,6 @@ https://github.com/user-attachments/assets/647fc793-3f01-4887-933c-766041e27ab8
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="CHAKRAM" tvg-logo="https://i.imgur.com/ygV5pkS.png" group-title="MUSIC", CHAKRAM
 https://github.com/user-attachments/assets/e5a8701e-b986-47f9-8596-5d76cbd2d48a
 
-#EXTINF:-1 tvg-id="etvhd.in" tvg-name="JARU" tvg-logo="https://i.imgur.com/MN46em1.png" group-title="MUSIC", JARU
-https://github.com/user-attachments/assets/3da7132e-d5d0-4c0c-8875-5f4ff3070e7a
-
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://i.imgur.com/ygV5pkS.png" group-title="ENTERTAINMENT", ETV HD
 http://ktv.im:8080/8000865368/4663112367/83898
 
@@ -52,7 +49,7 @@ http://livetvbox.live:8080/live/Ben/Ben/9042.ts
 http://ktv.im:8080/8000865368/4663112367/83907
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU" tvg-logo="https://i.imgur.com/Ad46U96.png" group-title="ENTERTAINMENT", ZEE TELUGU
-http://livetvbox.live:8080/live/Ben/Ben/1605.ts
+http://m1-max.dns-speedy.com:80/35F56F/50945D/143532
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="ZEE CINEMALU" tvg-logo="https://i.imgur.com/disc086.png" group-title="ENTERTAINMENT", ZEE CINEMALU
 http://ktv.im:8080/8000865368/4663112367/83924
@@ -64,10 +61,10 @@ http://ktv.im:8080/8000865368/4663112367/83915
 http://ktv.im:8080/8000865368/4663112367/83932
 
 #EXTINF:-1 tvg-id="VanithaTV.in" tvg-name="VANITHA TV" tvg-logo="http://logo.protv.cc/picons/logos/VANITHA-TV.jpg" group-title="LIFESTYLE", VANITHA TV
-http://14.102.123.50:5001/live/775.m3u8
+http://m1-max.dns-speedy.com:80/35F56F/50945D/143535
 
 #EXTINF:-1 tvg-id="CVR HEALTH" tvg-name="CVR HEALTH" tvg-logo="https://i.imgur.com/n3MRq4N.png" group-title="LIFESTYLE", CVR HEALTH
-http://14.102.123.50:5001/live/774.m3u8
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441536
 
 #EXTINF:-1 tvg-id="studio one" tvg-name="STUDIO ONE" tvg-logo="https://i.imgur.com/jldGnQa.jpg" group-title="ENTERTAINMENT", STUDIO ONE
 http://14.102.123.50:5001/live/1274.m3u8
@@ -101,10 +98,10 @@ http://starshare.live:8080/live/19031903/19031903/34581.ts
 http://14.102.123.50:5001/live/1254.m3u8
 
 #EXTINF: -1 tvg-id="955" tvg-name=HINDU DHARMAM" tvg-logo="https://i.imgur.com/CqzVI8u.png group-title=" RELIGIOUS", HINDU DHARMAM
-http://14.102.123.50:5001/live/955.m3u8
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441534
 
 #EXTINF:-1 tvg-id="" tvg-name="CVR OM Spiritual" tvg-logo="https://i.imgur.com/OSASigu.png group-title="Devotional", CVR OM SPIRITUAL
-http://14.102.123.50:5001/live/772.m3u8
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441535
 
 #EXTINF:-1 tvg-id="Sai TV" tvg-name="SAI TV" tvg-logo="https://i.imgur.com/IfBCZFB.png" group-title="RELIGIOUS", SAI TV
 http://decode.streamplay.in:1935/srisai/srisai/playlist.m3u8
@@ -116,16 +113,19 @@ http://103.139.171.5:5001/live.php?c=Saileela_TV_Telugu&q=800&e=junk.m3u8
 http://live.adostream.com:1935/gospeltv/gospeltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AradanaTV.in" tvg-name="ARADANA TV" tvg-logo="https://i.imgur.com/w48yzLu.png" group-title="RELIGIOUS", ARADANA TV 
-https://ythls.armelin.one/channel/UCMnz0yLX3afzFc8y822YO5g.m3u8
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441538
 
 #EXTINF: -1 tvg-id="977" tvg-name="CALVARY" tvg-logo="https://i.imgur.com/HxI8Pve.png" group-title="RELIGIOUS", CALVARY
-http://14.102.123.50:5001/live/977.m3u8
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441537
 
 #EXTINF:-1 tvg-id="Shubhsandesh.in" tvg-name="SHUBHSANDESH" tvg-logo="https://i.imgur.com/XsuFVlf.png" group-title="RELIGIOUS", SHUBHSANDESH 
 https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 
 #EXTINF: -1 tvg-id="607" tvg-name="SUBHAVARTHA TV" tvg-logo="https://i.imgur.com/hDCHguG.png" group-title="RELIGIOUS", SUBHAVARTHA TV
-http://37.49.225.197:8080/mitrovic/e8ac4724d4/166397
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441529
+
+#EXTINF:-1 tvg-ID="" tvg-name="NIREEKSHANA TV" tvg-logo="https://i.imgur.com/BPheTrd.png" tvg-logo="" group-title="RELIGIOUS", NIREEKSHANA TV
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441530
 
 #EXTINF:-1 tvg-id=1418 tvg-name="Ichhapuran Balaji Rajasthan" tvg-logo="http://14.102.123.50:5001/jtvimage/Ichhapuran_Balaji_Rajasthan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Ichhapuran Balaji Rajasthan
 http://14.102.123.50:5001/live/1418.m3u8
@@ -154,7 +154,7 @@ http://14.102.123.50:5001/live/1426.m3u8
 
 ++++++++++++++++++++++++++++++++++++++++++++++DD INDIA +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 #EXTINF:-1 tvg-id="DDSaptagiri.in" tvg-name="DD SAPTAGIRI" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="GENERAL", DD SAPTAGIRI
-http://starshare.live:8080/live/19031903/19031903/4053.ts
+http://m1-max.dns-speedy.com:80/35F56F/50945D/143536
 
 #EXTINF:-1 tvg-id="DDYadagiri.in" tvg-name="DD YADAGIRI" tvg-logo="https://i.imgur.com/nxnGXJz.png" group-title="GENERAL", DD YADAGIRI
 https://ythls.armelin.one/channel/UC6V4nVa0CQkoLZUlg9drmZA.m3u8
@@ -383,54 +383,53 @@ http://103.139.171.5:5001/live.php?c=Nipuna&q=800&e=junk.m3u8
 
 
 ====================================KIDS=============================================================================
+#EXTINF:-1  tvg-id="KushiTV.in" tvg-name="KUSHI TV" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="KIDS", KUSHI TV
+http://m1-max.dns-speedy.com:80/35F56F/50945D/143533
 
 #EXTINF:-1  tvg-id="Pogo.in" tvg-name="POGO" tvg-logo="https://i.imgur.com/96BYKkZ.jpg" group-title="KIDS", POGO 
-http://livetvbox.live:8080/live/Ben/Ben/1918.ts
-
-#EXTINF:-1  tvg-id="KushiTV.in" tvg-name="KUSHI TV" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="KIDS", KUSHI TV
-http://livetvbox.live:8080/live/Ben/Ben/355504.ts
+http://m1-max.dns-speedy.com:80/35F56F/50945D/112864
 
 #EXTINF:-1  tvg-id="Sonic.in" tvg-name="NICK SONIC" tvg-logo="https://i.imgur.com/zy2LrKp.jpg" group-title="KIDS", SONIC
 http://livetvbox.live:8080/live/Ben/Ben/121290.ts
 
 #EXTINF:-1  tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="KIDS", CARTOON NETWORK 
-http://livetvbox.live:8080/live/Ben/Ben/231007.ts
+http://m1-max.dns-speedy.com:80/35F56F/50945D/118071
 
 #EXTINF:-1  tvg-id="Nick.in" tvg-name="NICK" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="KIDS", NICK 
 http://filex.tv:8080/munna/9090/455492
 
 #EXTINF:-1  tvg-id="SonyYAY.in" tvg-name="SONY YAY" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="KIDS", SONY YAY 
-http://filex.tv:8080/munna/9090/455389
+http://m1-max.dns-speedy.com:80/35F56F/50945D/112744
 
 #EXTINF:-1  tvg-id="Hungama.in" tvg-name="HUNGAMA"  tvg-logo="https://i.imgur.com/cYVExRI.png" group-title="KIDS", HUNGAMA
-http://mixbix.xyz:8080/mLW2nMkArKNs/zMgjNRWVAzC6/238963
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441461
 
 #EXTINF:-1  tvg-id="" tvg-name="BABY TV" tvg-logo="https://i.imgur.com/bFtkF5H.jpg" group-title=" KIDS", BABY TV
-http://livetvbox.live:8080/live/Ben/Ben/671.ts
+http://m1-max.dns-speedy.com:80/35F56F/50945D/311478
 
 #EXTINF:-1  tvg-id="DisneyChannel.in" tvg-name="DISNEY CHANNEL"tvg-logo="https://i.imgur.com/aOkXvqg.png" group-title="KIDS", DISNEY CHANNEL
-http://livetvbox.live:8080/live/Ben/Ben/145079.ts
+http://m1-max.dns-speedy.com:80/35F56F/50945D/27718
 
 #EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.imgur.com/XkTwaby.png" group-title=" KIDS", DISNEY JUNIOR
-http://livetvbox.live:8080/live/Ben/Ben/207676.ts
+http://m1-max.dns-speedy.com:80/35F56F/50945D/27774
 
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" tvg-logo="https://i.imgur.com/UE7TW2L.png" group-title="KIDS", DISNEY XD
-http://livetvbox.live:8080/live/Ben/Ben/1492.ts
+http://m1-max.dns-speedy.com:80/35F56F/50945D/105369
 
 #EXTINF:-1  tvg-id="NickJr.in" tvg-name="NICK JUNIOR" tvg-logo="https://i.imgur.com/SIPeyn0.png" group-title="KIDS", NICK JUNIOR
-http://livetvbox.live:8080/live/Ben/Ben/38.ts
+http://m1-max.dns-speedy.com:80/35F56F/50945D/118076
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="NICKELODEON" tvg-logo="https://i.imgur.com/T0dFpxB.png" group-title="KIDS", NICKELODEON
-http://watchindia.net:8880/live/22453/32498/2049.m3u8
+http://m1-max.dns-speedy.com:80/35F56F/50945D/118075
 
 #EXTINF:-1  tvg-id="" tvg-name="NICKTOONS" tvg-logo="https://i.imgur.com/xyY6OlN.png group-title="KIDS", NICKTOONS
-http://livetvbox.live:8080/live/Ben/Ben/1535.ts
+http://m1-max.dns-speedy.com:80/35F56F/50945D/118077
 
 #EXTINF:-1  tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://i.imgur.com/pjjX4rP.png" group-title="KIDS", BOOMERANG
-http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1931
+http://m1-max.dns-speedy.com:80/35F56F/50945D/269126
 
 #EXTINF:-1  tvg-id="DiscoveryKids.in" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/F6tDTGk.jpg" group-title=" KIDS", DISCOVERY KIDS
-http://110605519922811521.of51.xyz:80/live/vi31317/7NcaJueGuJ/811521.ts
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441571
 
 #EXTINF:-1  tvg-id="NickHDPlus.in" tvg-name="NICK HD+" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="KIDS", NICK HD+ 
 http://103.174.195.4:8000/play/a01n
@@ -444,19 +443,19 @@ http://mixbix.xyz:8080/nLaEDDdNc4Lz/B9nK8jU7dfWU/238973
 http://opplex.tv:8080/Saifullah222/Saifullah222/206279
 
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="HISTORY TV 18" tvg-logo="https://i.imgur.com/9ZNRL8N.png" group-title="DOCUMENTARY", HISTORY TV 18 
-http://opplex.tv:8080/Saifullah222/Saifullah222/206294
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63529
 
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://i.imgur.com/BzOkwXi.jpg" group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC WILD
-http://opplex.tv:8080/Saifullah222/Saifullah222/109976
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441540
 
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="SONY BBC EARTH" tvg-logo="https://i.imgur.com/MyuB3E5.png" group-title="DOCUMENTARY", SONY BBC EARTH 
-http://opplex.tv:8080/Saifullah222/Saifullah222/109978
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63527
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/Nn4mWnI.jpg" group-title="DOCUMENTARY", DISCOVERY CHANNEL
-http://opplex.tv:8080/Saifullah222/Saifullah222/109974
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63316
 
 #EXTINF:-1 tvg-id="NationalGeographicChannel.in" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/XKNFAyu.png" group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC 
-http://opplex.tv:8080/Saifullah222/Saifullah222/109977
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63528
 
 #EXTINF:-1 tvg-id="natgeopeople.pl" tvg-name="NAT GEO PEOPLE"tvg-logo="https://i.imgur.com/6IMbkwp.png group-title="DOCUMENTARY", NAT GEO PEOPLE
 http://xtv.ooo:8080/54248765/34876543/352651
@@ -479,13 +478,28 @@ http://xtv.ooo:8080/54248765/34876543/206296
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX HD" tvg-logo="https://i.imgur.com/EU7P3wb.jpg"group-title="DOCUMENTARY", DMAX HD
 https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
 
-+++++++++++++++++++++++++++++++++++github+++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 ++++++++++++++++++++++++++++++++++++Telugu News+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
+#EXTINF:-1 tvg-id="sakshitv.in" tvg-name="SAKSHI TV" tvg-logo="https://i.imgur.com/rR434zM.jpg" group-title="NEWS", SAKSHI TV
+http://starshare.live:8080/live/19031903/19031903/9050.ts
 
+#EXTINF:-1 tvg-id="tv9.in" tvg-name="TV9" tvg-logo="https://watchindia.net/images/channels/telugu/TV9.png" group-title="NEWS", TV9
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441541
 
+#EXTINF:-1 tvg-id="ABNTeluguNews.in" tvg-name="ABN NEWS" tvg-logo="https://i.imgur.com/aB5o7cE.png" group-title="NEWS", ABN ANDHRA JYOTHI NEWS
+http://m1-max.dns-speedy.com:80/35F56F/50945D/102475
+
+#EXTINF:-1 tvg-id="TV5News.in" tvg-name="TV5 NEWS" tvg-logo="https://i.imgur.com/aOrvsYj.png" group-title="NEWS", TV5 NEWS
+http://m1-max.dns-speedy.com:80/35F56F/50945D/112743
+
+#EXTINF:-1 tvg-id="4tvnews.in" tvg-name="NTV NEWS" tvg-logo="https://i.imgur.com/S4eV49a.png" group-title="NEWS", NTV NEWS
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441525
+
+#EXTINF:-1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://i.imgur.com/RTYgric.png" group-title="NEWS", 10 TV
+http://m1-max.dns-speedy.com:80/35F56F/50945D/112745
 
 #EXTINF:-1 tvg-ID="RajNewsTelugu.in" tvg-name="RAJ NEWS TELUGU" tvg-logo="https://i.imgur.com/CCSgw3Z.png" group-title="NEWS", RAJ NEWS TELUGU
 http://starshare.live:8080/live/19031903/19031903/52504.ts
@@ -496,35 +510,17 @@ http://starshare.live:8080/live/19031903/19031903/9046.ts
 #EXTINF:-1 tvg-id="ETVTelangana.in" tvg-name="ETV TELANGANA" tvg-logo="https://i.imgur.com/DkgvWTK.png" group-title="NEWS", ETV TELANGANA 
 http://starshare.live:8080/live/7884362065/8020257649/9050.ts
 
-#EXTINF:-1 tvg-id="sakshitv.in" tvg-name="SAKSHI TV" tvg-logo="https://i.imgur.com/rR434zM.jpg" group-title="NEWS", SAKSHI TV
-http://starshare.live:8080/live/19031903/19031903/9050.ts
-
-#EXTINF:-1 tvg-id="ABNTeluguNews.in" tvg-name="ABN NEWS" tvg-logo="https://i.imgur.com/aB5o7cE.png" group-title="NEWS", ABN ANDHRA JYOTHI NEWS
-http://xtv.ooo:8080/live/0966717777/0966717777/244466.m3u8
-
-#EXTINF:-1 tvg-id="4tvnews.in" tvg-name="NTV NEWS" tvg-logo="https://i.imgur.com/S4eV49a.png" group-title="NEWS", NTV NEWS
-http://xtv.ooo:8080/live/0966717777/0966717777/244462.m3u8
-
-#EXTINF:-1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://i.imgur.com/RTYgric.png" group-title="NEWS", 10 TV
-http://xtv.ooo:8080/live/0966717777/0966717777/244457.m3u8
-
 #EXTINF:-1 tvg-id="v6telugu.in" tvg-name="V6 NEWS" tvg-logo="https://i.imgur.com/rBmV30d.png" group-title="NEWS", V6 NEWS
-http://starshare.live:8080/live/7884362065/8020257649/228.ts
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63264
 
 #EXTINF:-1 tvg-id="CVRNews.in" tvg-name="CVR NEWS TELUGU" tvg-logo="https://i.imgur.com/UVLWX8B.png" group-title="NEWS", CVR NEWS TELUGU
-http://14.102.123.50:5001/live/784.m3u8
+http://m1-max.dns-speedy.com:80/35F56F/50945D/112918
 
 #EXTINF:-1 tvg-id="CVR ENGLISH" tvg-name="CVR ENGLISH" tvg-logo="https://i.imgur.com/KR7KLQa.png" group-title="NEWS", CVR ENGLISH
 http://14.102.123.50:5001/live/787.m3u8
 
 #EXTINF:-1 tvg-id="tnews.in" tvg-name="T NEWS" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" group-title="NEWS", T NEWS
-http://starshare.live:8080/live/7884362065/8020257649/9049.ts
-
-#EXTINF:-1 tvg-id="tv9.in" tvg-name="TV9" tvg-logo="https://watchindia.net/images/channels/telugu/TV9.png" group-title="NEWS", TV9
-http://starshare.live:8080/live/7884362065/8020257649/9047.ts
-
-#EXTINF:-1 tvg-id="TV5News.in" tvg-name="TV5 NEWS" tvg-logo="https://i.imgur.com/aOrvsYj.png" group-title="NEWS", TV5 NEWS
-http://starshare.live:8080/live/19031903/19031903/9047.ts
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441528
 
 #EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="MAHAA NEWS" tvg-logo="https://i.imgur.com/buT76vR.png" group-title="NEWS", MAHAA NEWS
 https://ythls.armelin.one/channel/UCDKjhgRoPF1CQk7HluMz23A.m3u8
@@ -536,16 +532,16 @@ https://ythls.armelin.one/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
 https://ythls.armelin.one/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
 
 #EXTINF:-1 tvg-id="I News" tvg-name="I NEWS" tvg-logo="https://i.imgur.com/D30JrAC.png" group-title="NEWS", I NEWS
-http://xtv.ooo:8080/live/0966717777/0966717777/244468.m3u8
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441532
 
 #EXTINF:-1 tvg-id="HMTV" tvg-name="HMTV NEWS" tvg-logo="https://i.imgur.com/UYDApkI.png" group-title="NEWS", HMTV NEWS
-https://ythls.armelin.one/channel/UCNZOrs1QBt8cJnv9ud96qRA.m3u8
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441533
 
 #EXTINF:-1 tvg-id="10tv.in" tvg-name="SWATANTRA TV" tvg-logo="https://i.imgur.com/O7AZ5VZ.png" group-title="NEWS", SWATANTRA TV
 http://watchindia.net:8880/live/24787/85016/981.ts
 
 #EXTINF:-1 tvg-id="ZeeTeluguNews.in" tvg-name="ZEE TELUGU NEWS" tvg-logo="https://i.imgur.com/fF9PZUA.png" group-title="NEWS", ZEE TELUGU NEWS 
-http://starshare.live:8080/live/19031903/19031903/380447.ts
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63469
 
 ------------------------------SPORTS------------------------------------------------
 
