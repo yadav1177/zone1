@@ -551,7 +551,7 @@ http://m1-max.dns-speedy.com:80/35F56F/50945D/63469
 http://m1-max.dns-speedy.com:80/35F56F/50945D/771623
 
 #EXTINF:-1 tvg-id="" tvg-name="JIOCINEMA CRICKET 1" tvg-logo="https://watchindia.net/images/channels/sports/Tata_IPL.png" group-title="Sports", JIOCINEMA CRICKET 1
-http://starshare.live:8080/live/554147/554147/158899.ts
+http://cdn.troya.one:80/ch1988/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCpFZbpMMqq-6-4vFTZzyqSBH3QV-i0fbkSlM6VW0S_5
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.imgur.com/NambWyO.png" group-title="SPORTS", STAR SPORTS 1
 http://dream8k.pro:80/Kam/Kam/7888
