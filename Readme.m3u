@@ -49,7 +49,7 @@ http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/155844
 http://ktv.im:8080/8000865368/4663112367/83907
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU" tvg-logo="https://i.imgur.com/Ad46U96.png" group-title="ENTERTAINMENT", ZEE TELUGU
-http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/281963
+http://b1g.ooo:80/0282/0282/192764
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="ZEE CINEMALU" tvg-logo="https://i.imgur.com/disc086.png" group-title="ENTERTAINMENT", ZEE CINEMALU
 http://ktv.im:8080/8000865368/4663112367/83924
@@ -77,6 +77,9 @@ http://14.102.123.50:5001/live/2065.m3u8
 
 #EXTINF:-1 tvg-id="MANA TV AP" tvg-name=" MANA TV AP" tvg-logo="https://i.imgur.com/OHmDE9p.png" group-title="NEWS",  MANA TV AP
 http://14.102.123.50:5001/live/1607.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="naaptontelugu.in" tvg-name="TELUGU NAAPTOL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Naaptol.png" group-title="ENTERTAINMENT", TELUGU NAAPTOL
+http://b1g.ooo:80/0282/0282/663379
 =========================================Devotional=====================================================================
 
 #EXTINF:-1 tvg-id="SVBC2.in" tvg-name="SVBC 2 " tvg-logo="https://i.imgur.com/NtmRt1A.png" group-title="RELIGIOUS", SVBC 2 
