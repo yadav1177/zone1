@@ -98,10 +98,10 @@ https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/play
 http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/155854
 
 #EXTINF:-1 tvg-id="1254"  tvg-name="AASTHA TELUGU"  tvg-logo="https://i.imgur.com/EtoIeVg.png" group-title="RELIGIOUS"", AASTHA TELUGU
-http://14.102.123.50:5001/live/1254.m3u8
+http://opplex.live:8080/10863876/92018765/382292
 
 #EXTINF: -1 tvg-id="955" tvg-name=HINDU DHARMAM" tvg-logo="https://i.imgur.com/CqzVI8u.png group-title=" RELIGIOUS", HINDU DHARMAM
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441534
+http://opplex.live:8080/10863876/92018765/382293
 
 #EXTINF:-1 tvg-id="" tvg-name="CVR OM Spiritual" tvg-logo="https://i.imgur.com/OSASigu.png group-title="Devotional", CVR OM SPIRITUAL
 http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/1097619
@@ -119,13 +119,13 @@ http://live.adostream.com:1935/gospeltv/gospeltv/playlist.m3u8
 http://m1-max.dns-speedy.com:80/35F56F/50945D/1441538
 
 #EXTINF: -1 tvg-id="977" tvg-name="CALVARY" tvg-logo="https://i.imgur.com/HxI8Pve.png" group-title="RELIGIOUS", CALVARY
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441537
+http://opplex.live:8080/10863876/92018765/382273
 
 #EXTINF:-1 tvg-id="Shubhsandesh.in" tvg-name="SHUBHSANDESH" tvg-logo="https://i.imgur.com/XsuFVlf.png" group-title="RELIGIOUS", SHUBHSANDESH 
 https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 
 #EXTINF: -1 tvg-id="607" tvg-name="SUBHAVARTHA TV" tvg-logo="https://i.imgur.com/hDCHguG.png" group-title="RELIGIOUS", SUBHAVARTHA TV
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441529
+http://opplex.live:8080/10863876/92018765/382281
 
 #EXTINF:-1 tvg-ID="" tvg-name="NIREEKSHANA TV" tvg-logo="https://i.imgur.com/BPheTrd.png" tvg-logo="" group-title="RELIGIOUS", NIREEKSHANA TV
 http://m1-max.dns-speedy.com:80/35F56F/50945D/1441530
@@ -376,7 +376,7 @@ https://sharsolution.in/hls/s9tv/s9tv.m3u8
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Sattva_TV
 
 #EXTINF:-1 tvg-id="" tvg-name="PMC TELUGU" tvg-logo="https://i.imgur.com/qAAkWNS.png" group-title="RELIGIOUS", PMC TELUGU
-http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/280797
+http://opplex.live:8080/10863876/92018765/382270
 
 #EXTINF: -1 tvg-id="1461" tvg-name="VIDYA" tvg-logo="https://i.imgur.com/mX4u8gg.png" group-title="RELIGIOUS", VIDYA
 http://103.139.171.5:5001/live.php?c=Vidya&q=800&e=junk.m3u8
@@ -392,11 +392,11 @@ http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/155868
 #EXTINF:-1  tvg-id="Pogo.in" tvg-name="POGO" tvg-logo="https://i.imgur.com/96BYKkZ.jpg" group-title="KIDS", POGO 
 https://rolextv.asia:443/admin123/admin123/59947
 
-#EXTINF:-1  tvg-id="Sonic.in" tvg-name="NICK SONIC" tvg-logo="https://i.imgur.com/zy2LrKp.jpg" group-title="KIDS", SONIC
-https://rolextv.asia:443/admin123/admin123/59948
+#EXTINF:-1  tvg-id="big.in" tvg-name="BIG NEWS" tvg-logo="https://i.imgur.com/zy2LrKp.jpg" group-title="KIDS", BIG NEWS
+http://opplex.live:8080/10863876/92018765/382272
 
 #EXTINF:-1  tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="KIDS", CARTOON NETWORK 
-https://rolextv.asia:443/admin123/admin123/59944
+http://opplex.live:8080/10863876/92018765/381094
 
 #EXTINF:-1  tvg-id="Nick.in" tvg-name="NICK" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="KIDS", NICK 
 https://rolextv.asia:443/admin123/admin123/59949
@@ -438,7 +438,7 @@ https://rolextv.asia:443/admin123/admin123/59945
 http://103.174.195.4:8000/play/a01n
 
 #EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="CARTOON NETWORK HD+" tvg-logo="https://i.imgur.com/9spEdvT.png" group-title="KIDS", CARTOON NETWORK HD+ 
-http://mixbix.xyz:8080/nLaEDDdNc4Lz/B9nK8jU7dfWU/238973
+http://opplex.live:8080/10863876/92018765/382275
 
 
 =============================DOCUMENTARY====================================================================
@@ -449,13 +449,13 @@ http://opplex.tv:8080/Saifullah222/Saifullah222/206279
 https://rolextv.asia:443/admin123/admin123/59925
 
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://i.imgur.com/BzOkwXi.jpg" group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC WILD
-http://dream8k.pro:80/Kam/Kam/161891
+http://opplex.live:8080/10863876/92018765/381099
 
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="SONY BBC EARTH" tvg-logo="https://i.imgur.com/MyuB3E5.png" group-title="DOCUMENTARY", SONY BBC EARTH 
-https://rolextv.asia:443/admin123/admin123/59919
+http://opplex.live:8080/10863876/92018765/381102
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/Nn4mWnI.jpg" group-title="DOCUMENTARY", DISCOVERY CHANNEL
-https://rolextv.asia:443/admin123/admin123/59924
+http://opplex.live:8080/10863876/92018765/381095
 
 #EXTINF:-1 tvg-id="NationalGeographicChannel.in" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/XKNFAyu.png" group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC 
 https://rolextv.asia:443/admin123/admin123/59922
@@ -499,7 +499,7 @@ http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/1529115
 http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/155861
 
 #EXTINF:-1 tvg-id="4tvnews.in" tvg-name="NTV NEWS" tvg-logo="https://i.imgur.com/S4eV49a.png" group-title="NEWS", NTV NEWS
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441525
+http://opplex.live:8080/10863876/92018765/381126
 
 #EXTINF:-1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://i.imgur.com/RTYgric.png" group-title="NEWS", 10 TV
 http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/155864
@@ -514,7 +514,7 @@ http://starshare.live:8080/live/19031903/19031903/9046.ts
 http://starshare.live:8080/live/7884362065/8020257649/9050.ts
 
 #EXTINF:-1 tvg-id="v6telugu.in" tvg-name="V6 NEWS" tvg-logo="https://i.imgur.com/rBmV30d.png" group-title="NEWS", V6 NEWS
-http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/155859
+http://opplex.live:8080/10863876/92018765/381124
 
 #EXTINF:-1 tvg-id="CVRNews.in" tvg-name="CVR NEWS TELUGU" tvg-logo="https://i.imgur.com/UVLWX8B.png" group-title="NEWS", CVR NEWS TELUGU
 http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/1097618
@@ -529,19 +529,19 @@ http://tr.simotvgold.com:80/7b706cd8ec/Ibrakadabra/1529133
 https://ythls.armelin.one/channel/UCDKjhgRoPF1CQk7HluMz23A.m3u8
 
 #EXTINF:-1 tvg-id="99TV.in" tvg-name="99TV" tvg-logo="https://i.imgur.com/dZA4gel.png" group-title="NEWS", 99TV  
-https://ythls.armelin.one/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
+http://opplex.live:8080/10863876/92018765/382271
 
 #EXTINF:-1 tvg-id="Prime9News.in" tvg-name="PRIME9 NEWS" tvg-logo="https://i.imgur.com/BKzp0oa.png" group-title="NEWS",PRIME9 NEWS
 https://ythls.armelin.one/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
 
 #EXTINF:-1 tvg-id="I News" tvg-name="I NEWS" tvg-logo="https://i.imgur.com/D30JrAC.png" group-title="NEWS", I NEWS
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441532
+http://opplex.live:8080/10863876/92018765/382285
 
 #EXTINF:-1 tvg-id="HMTV" tvg-name="HMTV NEWS" tvg-logo="https://i.imgur.com/UYDApkI.png" group-title="NEWS", HMTV NEWS
 http://m1-max.dns-speedy.com:80/35F56F/50945D/1441533
 
 #EXTINF:-1 tvg-id="10tv.in" tvg-name="SWATANTRA TV" tvg-logo="https://i.imgur.com/O7AZ5VZ.png" group-title="NEWS", SWATANTRA TV
-http://watchindia.net:8880/live/24787/85016/981.ts
+http://opplex.live:8080/10863876/92018765/382282
 
 #EXTINF:-1 tvg-id="ZeeTeluguNews.in" tvg-name="ZEE TELUGU NEWS" tvg-logo="https://i.imgur.com/fF9PZUA.png" group-title="NEWS", ZEE TELUGU NEWS 
 http://m1-max.dns-speedy.com:80/35F56F/50945D/63469
@@ -608,7 +608,7 @@ https://rolextv.asia:443/admin123/admin123/97266
 ==============================================ENGLISH======================================================================================================================
 
 #EXTINF:-1 tvg-id="sonypix.in" tvg-name="SONY PIX HD" tvg-logo="https://i.imgur.com/O0vSVMI.png" group-title="ENTERTAINMENT", SONY PIX HD
-http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/75
+http://opplex.live:8080/10863876/92018765/381093
 
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="STAR MOVIES" tvg-logo="https://i.imgur.com/uStd85l.png" group-title="ENTERTAINMENT", STAR MOVIES
 http://opplex.tv:8080/Saifullah222/Saifullah222/109970
