@@ -1452,65 +1452,89 @@ http://line.gofast-tv.me/play/live.php?extension=ts&mac=00:1A:79:6F:5A:5D&play_t
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++VOB++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Telugu_2022_2021_Collection_vol_1" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg?w=2000" group-title="TELUGU MOVIES 24/7",24/7: Telugu_2022_2021_Collection_vol_1
-http://starshare.live:8080/live/19031903/19031903/121374.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-MOVIES 1 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-MOVIES 1 HD
-http://starshare.live:8080/live/19031903/19031903/136457.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-MOVIES 2 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-MOVIES 2 HD
-http://starshare.live:8080/live/19031903/19031903/136458.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-MOVIES 3 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-MOVIES 3 HD
-http://starshare.live:8080/live/19031903/19031903/136459.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-MOVIES 4 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-MOVIES 4 HD
-http://starshare.live:8080/live/19031903/19031903/136460.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-EROSNOW MOVIES 1 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-EROSNOW MOVIES 1 HD
-http://starshare.live:8080/live/19031903/19031903/136461.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-CLASSIC MOVIES 1 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-CLASSIC MOVIES 1 HD
-http://starshare.live:8080/live/19031903/19031903/136462.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-CLASSIC MOVIES 2 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-CLASSIC MOVIES 2 HD
-http://starshare.live:8080/live/19031903/19031903/136463.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-LATTEST MOVIES 1 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-LATTEST MOVIES 1 HD
-http://starshare.live:8080/live/19031903/19031903/136464.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-LATTEST MOVIES 2 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-LATTEST MOVIES 2 HD
-http://starshare.live:8080/live/19031903/19031903/136465.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-ACTION DRAMA MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-ACTION DRAMA MOVIES HD
-http://starshare.live:8080/live/19031903/19031903/136466.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-COMEDY MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-COMEDY MOVIES HD
-http://starshare.live:8080/live/19031903/19031903/136467.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-ACTION CRIME MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-ACTION CRIME MOVIES HD
-http://starshare.live:8080/live/19031903/19031903/136468.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-ACTION THRILLER MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-ACTION THRILLER MOVIES HD
-http://starshare.live:8080/live/19031903/19031903/136469.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-THRILLER MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-THRILLER MOVIES HD
-http://starshare.live:8080/live/19031903/19031903/136470.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-ROMANCE MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-ROMANCE MOVIES HD
-http://starshare.live:8080/live/19031903/19031903/136471.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-MYSTERY MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-MYSTERY MOVIES HD
-http://starshare.live:8080/live/19031903/19031903/136472.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-COMEDY ROMANCE MOVES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-COMEDY ROMANCE MOVES HD
-http://starshare.live:8080/live/19031903/19031903/136473.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-COMEDY DRAMA MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-COMEDY DRAMA MOVIES HD
-http://starshare.live:8080/live/19031903/19031903/136474.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-CRIME MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-CRIME MOVIES HD
-http://starshare.live:8080/live/19031903/19031903/136475.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-CRIME DRAMA MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-CRIME DRAMA MOVIES HD
-http://starshare.live:8080/live/19031903/19031903/136476.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-DRAMA MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-DRAMA MOVIES HD
-http://starshare.live:8080/live/19031903/19031903/136477.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-DRAMA ROMANCE MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-DRAMA ROMANCE MOVIES HD
-http://starshare.live:8080/live/19031903/19031903/136478.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-DRAMA THRILLER MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-DRAMA THRILLER MOVIES HD
-http://starshare.live:8080/live/19031903/19031903/136479.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-FANTASY MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-FANTASY MOVIES HD
-http://starshare.live:8080/live/19031903/19031903/136480.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-HORROR MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-HORROR MOVIES HD
-http://starshare.live:8080/live/19031903/19031903/136481.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-HORROR THRILLER MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-HORROR THRILLER MOVIES HD
-http://starshare.live:8080/live/19031903/19031903/136482.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU-MUSICAL MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-MUSICAL MOVIES HD
-http://starshare.live:8080/live/19031903/19031903/136483.ts
-
-
-
-
-
-
+#EXTINF:-1,24/7: Telugu_2022_2021_Collection_vol_1
+https://starshare.live:443/live/Shuvo480/2309/121374.ts
+#EXTINF:-1,TELUGU-MOVIES 1 HD
+https://starshare.live:443/live/Shuvo480/2309/136457.ts
+#EXTINF:-1,TELUGU-MOVIES 2 HD
+https://starshare.live:443/live/Shuvo480/2309/136458.ts
+#EXTINF:-1,TELUGU-MOVIES 3 HD
+https://starshare.live:443/live/Shuvo480/2309/136459.ts
+#EXTINF:-1,TELUGU-MOVIES 4 HD
+https://starshare.live:443/live/Shuvo480/2309/136460.ts
+#EXTINF:-1,TELUGU-EROSNOW MOVIES 1 HD
+https://starshare.live:443/live/Shuvo480/2309/136461.ts
+#EXTINF:-1,TELUGU-CLASSIC MOVIES 1 HD
+https://starshare.live:443/live/Shuvo480/2309/136462.ts
+#EXTINF:-1,TELUGU-CLASSIC MOVIES 2 HD
+https://starshare.live:443/live/Shuvo480/2309/136463.ts
+#EXTINF:-1,TELUGU-LATTEST MOVIES 1 HD
+https://starshare.live:443/live/Shuvo480/2309/136464.ts
+#EXTINF:-1,TELUGU-LATTEST MOVIES 2 HD
+https://starshare.live:443/live/Shuvo480/2309/136465.ts
+#EXTINF:-1,TELUGU-ACTION DRAMA MOVIES HD
+https://starshare.live:443/live/Shuvo480/2309/136466.ts
+#EXTINF:-1,TELUGU-COMEDY MOVIES HD
+https://starshare.live:443/live/Shuvo480/2309/136467.ts
+#EXTINF:-1,TELUGU-ACTION CRIME MOVIES HD
+https://starshare.live:443/live/Shuvo480/2309/136468.ts
+#EXTINF:-1,TELUGU-ACTION THRILLER MOVIES HD
+https://starshare.live:443/live/Shuvo480/2309/136469.ts
+#EXTINF:-1,TELUGU-THRILLER MOVIES HD
+https://starshare.live:443/live/Shuvo480/2309/136470.ts
+#EXTINF:-1,TELUGU-ROMANCE MOVIES HD
+https://starshare.live:443/live/Shuvo480/2309/136471.ts
+#EXTINF:-1,TELUGU-MYSTERY MOVIES HD
+https://starshare.live:443/live/Shuvo480/2309/136472.ts
+#EXTINF:-1,TELUGU-COMEDY ROMANCE MOVES HD
+https://starshare.live:443/live/Shuvo480/2309/136473.ts
+#EXTINF:-1,TELUGU-COMEDY DRAMA MOVIES HD
+https://starshare.live:443/live/Shuvo480/2309/136474.ts
+#EXTINF:-1,TELUGU-CRIME MOVIES HD
+https://starshare.live:443/live/Shuvo480/2309/136475.ts
+#EXTINF:-1,TELUGU-CRIME DRAMA MOVIES HD
+https://starshare.live:443/live/Shuvo480/2309/136476.ts
+#EXTINF:-1,TELUGU-DRAMA MOVIES HD
+https://starshare.live:443/live/Shuvo480/2309/136477.ts
+#EXTINF:-1,TELUGU-DRAMA ROMANCE MOVIES HD
+https://starshare.live:443/live/Shuvo480/2309/136478.ts
+#EXTINF:-1,TELUGU-DRAMA THRILLER MOVIES HD
+https://starshare.live:443/live/Shuvo480/2309/136479.ts
+#EXTINF:-1,TELUGU-FANTASY MOVIES HD
+https://starshare.live:443/live/Shuvo480/2309/136480.ts
+#EXTINF:-1,TELUGU-HORROR MOVIES HD
+https://starshare.live:443/live/Shuvo480/2309/136481.ts
+#EXTINF:-1,TELUGU-HORROR THRILLER MOVIES HD
+https://starshare.live:443/live/Shuvo480/2309/136482.ts
+#EXTINF:-1,TELUGU-MUSICAL MOVIES HD
+https://starshare.live:443/live/Shuvo480/2309/136483.ts
+#EXTINF:-1,Guntur Kaaram (2024) (Telugu)
+https://starshare.live:443/movie/Shuvo480/2309/283141.mp4
+#EXTINF:-1,Grrr.. (2024) (Telugu)
+https://starshare.live:443/movie/Shuvo480/2309/383758.mp4
+#EXTINF:-1,Pandurangadu (2008)(Telugu)
+https://starshare.live:443/movie/Shuvo480/2309/256009.mp4
+#EXTINF:-1,Athadu (2005)(Telugu)
+https://starshare.live:443/movie/Shuvo480/2309/262548.mkv
+#EXTINF:-1,Dookudu (2011)(Telugu)
+https://starshare.live:443/movie/Shuvo480/2309/262550.mp4
+#EXTINF:-1,Khaleja (2010)(Telugu)
+https://starshare.live:443/movie/Shuvo480/2309/262551.mp4
+#EXTINF:-1,A Ranjith Cinema (2023) (Telugu)
+https://starshare.live:443/movie/Shuvo480/2309/269126.mp4
+#EXTINF:-1,Kotabommali PS (2023) (Telugu)
+https://starshare.live:443/movie/Shuvo480/2309/269127.mp4
+#EXTINF:-1,Vote (2023) (Telugu)
+https://starshare.live:443/movie/Shuvo480/2309/273675.mp4
+#EXTINF:-1,Bhakshak (2024) (Telugu)
+https://starshare.live:443/movie/Shuvo480/2309/283332.mp4
+#EXTINF:-1,The Kerala Story (2023) (Telugu)
+https://starshare.live:443/movie/Shuvo480/2309/286383.mp4
+#EXTINF:-1,Bhamakalapam 2 (2024) (Telugu)
+https://starshare.live:443/movie/Shuvo480/2309/286384.mp4
+#EXTINF:-1,Raajadhani Files (2024) (Telugu)(CAM)
+https://starshare.live:443/movie/Shuvo480/2309/286387.mp4
+#EXTINF:-1,Siddharth Roy (2024) (Telugu)(CAM)
+https://starshare.live:443/movie/Shuvo480/2309/289609.mp4
+#EXTINF:-1,Sundaram Master (2024) (Telugu)(CAM)
+https://starshare.live:443/movie/Shuvo480/2309/289610.mp4
