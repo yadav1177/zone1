@@ -420,10 +420,10 @@ https://rolextv.asia:443/admin123/admin123/59946
 http://m1-max.dns-speedy.com:80/35F56F/50945D/105369
 
 #EXTINF:-1  tvg-id="NickJr.in" tvg-name="NICK JUNIOR" tvg-logo="https://i.imgur.com/SIPeyn0.png" group-title="KIDS", NICK JUNIOR
-http://m1-max.dns-speedy.com:80/35F56F/50945D/118076
+http://iptvtree.net:8080/F32628/09b7a855/192989
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="NICKELODEON" tvg-logo="https://i.imgur.com/T0dFpxB.png" group-title="KIDS", NICKELODEON
-http://m1-max.dns-speedy.com:80/35F56F/50945D/118075
+http://iptvtree.net:8080/F32628/09b7a855/286732
 
 #EXTINF:-1  tvg-id="" tvg-name="NICKTOONS" tvg-logo="https://i.imgur.com/xyY6OlN.png group-title="KIDS", NICKTOONS
 http://m1-max.dns-speedy.com:80/35F56F/50945D/118077
@@ -432,7 +432,7 @@ http://m1-max.dns-speedy.com:80/35F56F/50945D/118077
 http://m1-max.dns-speedy.com:80/35F56F/50945D/269126
 
 #EXTINF:-1  tvg-id="DiscoveryKids.in" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/F6tDTGk.jpg" group-title=" KIDS", DISCOVERY KIDS
-https://rolextv.asia:443/admin123/admin123/59945
+http://iptvtree.net:8080/F32628/09b7a855/82683
 
 #EXTINF:-1  tvg-id="NickHDPlus.in" tvg-name="NICK HD+" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="KIDS", NICK HD+ 
 http://103.174.195.4:8000/play/a01n
@@ -455,7 +455,7 @@ http://opplex.live:8080/10863876/92018765/381099
 http://opplex.live:8080/10863876/92018765/381102
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/Nn4mWnI.jpg" group-title="DOCUMENTARY", DISCOVERY CHANNEL
-http://opplex.live:8080/10863876/92018765/381095
+http://iptvtree.net:8080/F32628/09b7a855/192985
 
 #EXTINF:-1 tvg-id="NationalGeographicChannel.in" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/XKNFAyu.png" group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC 
 https://rolextv.asia:443/admin123/admin123/59922
@@ -608,7 +608,7 @@ https://rolextv.asia:443/admin123/admin123/97266
 ==============================================ENGLISH======================================================================================================================
 
 #EXTINF:-1 tvg-id="sonypix.in" tvg-name="SONY PIX HD" tvg-logo="https://i.imgur.com/O0vSVMI.png" group-title="ENTERTAINMENT", SONY PIX HD
-http://opplex.live:8080/10863876/92018765/381093
+http://iptvtree.net:8080/F32628/09b7a855/45506
 
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="STAR MOVIES" tvg-logo="https://i.imgur.com/uStd85l.png" group-title="ENTERTAINMENT", STAR MOVIES
 http://opplex.tv:8080/Saifullah222/Saifullah222/109970
@@ -629,7 +629,7 @@ http://67288675027812160.napgoto413.xyz:80/play/vi608634/Tgn9Cjfe5y/812160.ts
 http://opplex.tv:8080/Saifullah222/Saifullah222/109962
 
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="& PRIVE HD" tvg-logo="https://i.imgur.com/qyK4ceT.png" group-title="ENTERTAINMENT", & PRIVE HD
-http://opplex.tv:8080/Saifullah222/Saifullah222/109963
+http://iptvtree.net:8080/F32628/09b7a855/49557
 
 #EXTINF:-1 tvg-id="" tvg-name="& Xplorer" tvg-logo="" group-title="ENTERTAINMENT",& Xplorer (4K)
 http://opplex.tv:8080/Saifullah222/Saifullah222/109964
@@ -642,16 +642,19 @@ http://emuligl.info:8080/tviritv/td6522SNAtHt/30675
 
 _____________________________________________________HINDI __________________________________________________________
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures HD" tvg-logo="https://i.imgur.com/6NgLppo.png" group-title="ENTERTAINMENT", & Pictures HD
-http://103.178.58.10:8000/play/a02m/index.m3u8
+http://iptvtree.net:8080/F32628/09b7a855/16958
 
 #EXTINF:-1 tvg-id="andtvhd.in" tvg-name="& TV HD" tvg-logo="https://i.imgur.com/BoIFSpT.png" group-title="ENTERTAINMENT", & TV HD
-http://103.178.58.10:8000/play/a022/index.m3u8
+http://iptvtree.net:8080/F32628/09b7a855/16964
 
 #EXTINF:-1 tvg-id="colors.in" tvg-name="COLORS" tvg-logo="https://i.imgur.com/kvyZM5c.png" group-title="ENTERTAINMENT", COLORS 
 http://opplex.tv:8080/Saifullah222/Saifullah222/219497
 
 #EXTINF:-1 tvg-id="Sony.in" tvg-name="Sony" tvg-logo="https://i.imgur.com/12orxdQ.png" group-title="ENTERTAINMENT", Sony 
 http://fast.bounceme.net:8080/live/rGaKpjvGha/AVSnwJZ2db/7077.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/76be466f6b2faa53cdae4ebf0ed727ec.png" group-title="Movie", Sony Aath
+http://iptvtree.net:8080/F32628/09b7a855/17005
 
 #EXTINF:-1 tvg-id="SonyMax.in" tvg-name="" tvg-logo="https://i.imgur.com/oVWxvG6.png" group-title="ENTERTAINMENT", Sony Max 
 http://iptvtree.net:8080/F32628/09b7a855/192995
@@ -669,19 +672,19 @@ http://fast.bounceme.net:8080/live/rGaKpjvGha/AVSnwJZ2db/8455.ts
 http://iptvtree.net:8080/F32628/09b7a855/1073
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat HD" tvg-logo="https://i.imgur.com/941FzL1.png" group-title="ENTERTAINMENT", Star Bharat HD
-http://103.178.58.10:8000/play/a00h/index.m3u8
+http://iptvtree.net:8080/F32628/09b7a855/284583
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://i.imgur.com/gIWNqTS.png" group-title="ENTERTAINMENT", Star Plus HD 
 http://opplex.tv:8080/Saifullah222/Saifullah222/109949
 
 #EXTINF:-1 tvg-id="StarGold.in" tvg-name="STAR GOLD" tvg-logo="https://i.imgur.com/QgP64Zf.png" group-title="ENTERTAINMENT", STAR GOLD HD 
-http://103.178.58.10:8000/play/a04x/index.m3u8
+http://iptvtree.net:8080/F32628/09b7a855/1070
 
 #EXTINF:-1 tvg-id="starutsav.in" tvg-name="Star Utsav" tvg-logo="https://i.imgur.com/xJvKDRE.png" group-title="ENTERTAINMENT", Star Utsav
 http://watchindia.net:8880/live/24787/85016/2493.ts
 
 #EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="" tvg-logo="https://i.imgur.com/89RaSLE.jpg" group-title="ENTERTAINMENT", Star Gold Select
-http://195.26.87.217/live.ts?channelId=197&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://iptvtree.net:8080/F32628/09b7a855/297547
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0OwSLvo.png" group-title="ENTERTAINMENT", Star Gold Thrills
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/189473
@@ -700,6 +703,9 @@ http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275051
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT" tvg-logo="" group-title="ENTERTAINMENT", STAR MOVIES SELECT 
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275054
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/48fa95424d644ec81854b1a89085ee7c.jpg" group-title="Movie", Star Jalsha
+http://iptvtree.net:8080/F32628/09b7a855/12979
 
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="" tvg-logo="https://i.imgur.com/K2Ksc1E.jpg" group-title="ENTERTAINMENT", Zee Cinema Hd
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275058
@@ -730,9 +736,6 @@ http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/277208
 
 #EXTINF:-1 tvg-id="" tvg-name="ZING TV" tvg-logo="https://i.imgur.com/1F5Jz2X.png" group-title="ENTERTAINMENT", Zing Tv
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/106
-
-#EXTINF:-1 tvg-id="" tvg-name="B4U KADAK" tvg-logo="https://i.imgur.com/elb6nPN.png" group-title="ENTERTAINMENT", B4U Kadak
-https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="JOU MUSIC" tvg-logo="https://i.imgur.com/WAp7Bnv.png" group-title="MUSIC", Jou MUSIC 
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
@@ -783,13 +786,16 @@ https://abplivetv.akamaized.net/hls/live/2043011/manjha/master_720p.m3u8
 https://ythls.armelin.one/channel/UC3mHciwDcBC8XucNnRt9C6A.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="MUSIC", 9XM 
-http://opplex.tv:8080/Saifullah222/Saifullah222/66192
+http://iptvtree.net:8080/F32628/09b7a855/45471
 
 #EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X JALWA" tvg-logo="https://i.imgur.com/4FRqlUw.png" group-title="MUSIC", 9X Jalwa
-http://opplex.tv:8080/Saifullah222/Saifullah222/66226
+http://iptvtree.net:8080/F32628/09b7a855/45465
 
 #EXTINF:-1 tvg-id="" tvg-name="9x Tashan" tvg-logo="https://static.epg.best/in/9XTashan.in.png" group-title="MUSIC", 9x Tashan
-http://opplex.tv:8080/Saifullah222/Saifullah222/66289
+http://iptvtree.net:8080/F32628/09b7a855/45455
+
+#EXTINF:-1 tvg-id="" tvg-name="9X Jhakaas" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/936f84ee0b67a5725ab0f7690f31daa6.png" group-title="MUSIC", 9X Jhakaas
+http://iptvtree.net:8080/F32628/09b7a855/165802
 
 #EXTINF:-1 tvg-id="" tvg-name="Mastii" tvg-logo="https://i.imgur.com/tAu79uh.jpg" group-title="MUSIC", Mastii
 http://opplex.tv:8080/Saifullah222/Saifullah222/112988
@@ -849,10 +855,16 @@ https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 
 #EXTINF:-1 tvg-id="B4UMoviesIndia.in"  tvg-name="B4U MOVIES" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies", B4U MOVIE
-http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/58354
+http://iptvtree.net:8080/F32628/09b7a855/1369
+
+#EXTINF:-1 tvg-id="" tvg-name="B4U Music" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/74204965261c6f9140a244bcc2710e80.png" group-title="Music", B4U Music
+http://iptvtree.net:8080/F32628/09b7a855/1368
 
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="B4U BHOJPURI" tvg-logo="https://i.imgur.com/UqgbSZm.png?1" group-title="MOVIES", B4U BHOJPURI
-http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/58215
+http://iptvtree.net:8080/F32628/09b7a855/197946
+
+#EXTINF:-1 tvg-id="" tvg-name="B4U Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c7a7a719272833e9c9c605b35c6c6c5d.png" group-title="Movie", B4U Plus
+http://iptvtree.net:8080/F32628/09b7a855/1367
 
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="BALLE BALLE TV" tvg-logo="https://i.imgur.com/oxkkWH5.png" group-title="MUSIC",Balle Balle 
 https://mcncdndigital.com/balleballetv/index.m3u8
@@ -885,16 +897,16 @@ https://ythls.armelin.one/channel/UCQIycDaLsBpMKjOCeaKUYVg.m3u8
 https://ythls.armelin.one/channel/UCmRbHAgG2k2vDUvb3xsEunQ.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" tvg-name="" tvg-logo="https://i.imgur.com/EbHSQAJ.png" group-title="Movies",Colors Cineplex Bollywood 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
+http://iptvtree.net:8080/F32628/09b7a855/49550
 
 #EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-name="COLORS CINEPLEX SUPERHITS" tvg-logo="https://i.imgur.com/xXLD9su.jpg" group-title="Movies",Colors Cineplex Superhits 
-http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/58448
+http://iptvtree.net:8080/F32628/09b7a855/299844
 
 #EXTINF:-1 tvg-id="Colors.in" tvg-name="COLORS HD"  tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment", COLORS HD
-http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73014
+http://iptvtree.net:8080/F32628/09b7a855/82642
 
-#EXTINF:-1 tvg-id="ColorsRishteyAsia.in" tvg-name="RISHTEY ASIA" tvg-logo="https://i.imgur.com/YKWfMZo.png" group-title="Documentary",Colors Rishtey Asia 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="ColorsRishteyAsia.in" tvg-name="Colors RISHTEY ASIA" tvg-logo="https://i.imgur.com/YKWfMZo.png" group-title="Documentary",Colors Rishtey Asia 
+http://iptvtree.net:8080/F32628/09b7a855/49547
 
 #EXTINF:-1 tvg-id="ComedyCentralIndia.in" tvg-name="COMEDY CENTRAL INDIA" tvg-logo="https://i.imgur.com/g0caQa2.png" group-title="Comedy",Comedy Central India 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
@@ -1222,31 +1234,31 @@ http://183.89.246.119:8881/play/a09a/index.m3u8
 http://watchindia.net:8880/live/24787/85016/842.ts
 _____________________________________________KANNADA____________________________________________________
 
-#EXTINF:-1 tvg-id="BtvNews.in" tvg-name="" tvg-logo="https://i.imgur.com/0BEPrNQ.png" group-title="News",BTV News 
+#EXTINF:-1 tvg-id="BtvNews.in" tvg-name="" tvg-logo="https://i.imgur.com/0BEPrNQ.png" group-title="News", BTV News 
 https://vidcdn.vidgyor.com/btv-origin/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ColorsKannada.in" tvg-name="" tvg-logo="https://i.imgur.com/CFUn43Z.png" group-title="Undefined",Colors Kannada 
+#EXTINF:-1 tvg-id="ColorsKannada.in" tvg-name="" tvg-logo="https://i.imgur.com/CFUn43Z.png" group-title="Undefined", Colors Kannada 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="ColorsKannadaCinema.in" tvg-logo="https://i.imgur.com/gNbA3NO.png" group-title="Movies",Colors Kannada Cinema 
+#EXTINF:-1 tvg-id="ColorsKannadaCinema.in" tvg-logo="https://i.imgur.com/gNbA3NO.png" group-title="Movies", Colors Kannada Cinema 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_Cinema_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsSuper.in" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Colors-super-tv-channel-logo.jpg" group-title="Undefined",Colors Super 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Super_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="DighvijayNews24x7.in" tvg-name="" tvg-logo="https://i.imgur.com/gSuWhWd.png" group-title="News",Dighvijay 
+#EXTINF:-1 tvg-id="DighvijayNews24x7.in" tvg-name="" tvg-logo="https://i.imgur.com/gSuWhWd.png" group-title="News", Dighvijay 
 https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KasthuriTV.in" tvg-name="" tvg-logo="https://i.imgur.com/ZQW6MbU.png" group-title="Entertainment",Kasthuri 
+#EXTINF:-1 tvg-id="KasthuriTV.in" tvg-name="" tvg-logo="https://i.imgur.com/ZQW6MbU.png" group-title="Entertainment", Kasthuri 
 http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 
 #EXTINF:-1 tvg-id="News1st.in" tvg-name="" tvg-logo="https://i.imgur.com/K3hlwDk.png" group-title="News",News 1st 
 https://932y4563djv8-hls-live.qezycdn.com/newsfirst/cb582cc2f3b08e0bbd1c9f3d23541e26.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="News18Kannada.in" tvg-name="" tvg-logo="https://i.imgur.com/3XVFxdO.png" group-title="News",News18 Kannada 
+#EXTINF:-1 tvg-id="News18Kannada.in" tvg-name="" tvg-logo="https://i.imgur.com/3XVFxdO.png" group-title="News", News18 Kannada 
 https://ythls.armelin.one/channel/UCa-vioGhe2btBcZneaPonKA.m3u8
 
-#EXTINF:-1 tvg-id="PowerTV.in" tvg-name="" tvg-logo="https://i.imgur.com/7wqqA1n.png" group-title="Undefined",Power TV 
+#EXTINF:-1 tvg-id="PowerTV.in" tvg-name="" tvg-logo="https://i.imgur.com/7wqqA1n.png" group-title="Undefined", Power TV 
 https://liveboxvideoconference.livebox.co.in/PowersmartMediahls/powertvlive.m3u8
 
 #EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="" tvg-logo="https://i.imgur.com/0xS5lNT.png" group-title="Music",Public Music 
@@ -1269,6 +1281,8 @@ https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8
 
 ___________________________________TAMIL________________________________________________________
 
+#EXTINF:-1 tvg-id="" tvg-name="Adithya TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/7f7f01cf9d579e09ecfbe313513df215.jpg" group-title="MUSIC", Adithya TV
+http://iptvtree.net:8080/F32628/09b7a855/157469
 
 #EXTINF:-1 tvg-id="3TamilTV.au" tvg-name="" tvg-logo="https://i.imgur.com/R43HJBp.png" group-title="Entertainment",3 Tamil TV 
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
@@ -1450,91 +1464,19 @@ https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
 #EXTINF:-1 tvg-id="ZeeThirai.in" tvg-name=""  tvg-logo="https://i.imgur.com/vmHfPD8.png" group-title="Undefined",Zee Thirai 
 http://line.gofast-tv.me/play/live.php?extension=ts&mac=00:1A:79:6F:5A:5D&play_token=oOPicFfGrH&stream=941587
 
-++++++++++++++++++++++++++++++++++++++++++++++++++VOB++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++MALYALAM++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTINF:-1 tvg-id="" tvg-name="Asianet" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/08bc2d3365bf4d2a63baee707fb7d929.png" group-title="Movie",IN: Asianet
+http://iptvtree.net:8080/F32628/09b7a855/82579
 
-#EXTINF:-1,24/7: Telugu_2022_2021_Collection_vol_1
-https://starshare.live:443/live/Shuvo480/2309/121374.ts
-#EXTINF:-1,TELUGU-MOVIES 1 HD
-https://starshare.live:443/live/Shuvo480/2309/136457.ts
-#EXTINF:-1,TELUGU-MOVIES 2 HD
-https://starshare.live:443/live/Shuvo480/2309/136458.ts
-#EXTINF:-1,TELUGU-MOVIES 3 HD
-https://starshare.live:443/live/Shuvo480/2309/136459.ts
-#EXTINF:-1,TELUGU-MOVIES 4 HD
-https://starshare.live:443/live/Shuvo480/2309/136460.ts
-#EXTINF:-1,TELUGU-EROSNOW MOVIES 1 HD
-https://starshare.live:443/live/Shuvo480/2309/136461.ts
-#EXTINF:-1,TELUGU-CLASSIC MOVIES 1 HD
-https://starshare.live:443/live/Shuvo480/2309/136462.ts
-#EXTINF:-1,TELUGU-CLASSIC MOVIES 2 HD
-https://starshare.live:443/live/Shuvo480/2309/136463.ts
-#EXTINF:-1,TELUGU-LATTEST MOVIES 1 HD
-https://starshare.live:443/live/Shuvo480/2309/136464.ts
-#EXTINF:-1,TELUGU-LATTEST MOVIES 2 HD
-https://starshare.live:443/live/Shuvo480/2309/136465.ts
-#EXTINF:-1,TELUGU-ACTION DRAMA MOVIES HD
-https://starshare.live:443/live/Shuvo480/2309/136466.ts
-#EXTINF:-1,TELUGU-COMEDY MOVIES HD
-https://starshare.live:443/live/Shuvo480/2309/136467.ts
-#EXTINF:-1,TELUGU-ACTION CRIME MOVIES HD
-https://starshare.live:443/live/Shuvo480/2309/136468.ts
-#EXTINF:-1,TELUGU-ACTION THRILLER MOVIES HD
-https://starshare.live:443/live/Shuvo480/2309/136469.ts
-#EXTINF:-1,TELUGU-THRILLER MOVIES HD
-https://starshare.live:443/live/Shuvo480/2309/136470.ts
-#EXTINF:-1,TELUGU-ROMANCE MOVIES HD
-https://starshare.live:443/live/Shuvo480/2309/136471.ts
-#EXTINF:-1,TELUGU-MYSTERY MOVIES HD
-https://starshare.live:443/live/Shuvo480/2309/136472.ts
-#EXTINF:-1,TELUGU-COMEDY ROMANCE MOVES HD
-https://starshare.live:443/live/Shuvo480/2309/136473.ts
-#EXTINF:-1,TELUGU-COMEDY DRAMA MOVIES HD
-https://starshare.live:443/live/Shuvo480/2309/136474.ts
-#EXTINF:-1,TELUGU-CRIME MOVIES HD
-https://starshare.live:443/live/Shuvo480/2309/136475.ts
-#EXTINF:-1,TELUGU-CRIME DRAMA MOVIES HD
-https://starshare.live:443/live/Shuvo480/2309/136476.ts
-#EXTINF:-1,TELUGU-DRAMA MOVIES HD
-https://starshare.live:443/live/Shuvo480/2309/136477.ts
-#EXTINF:-1,TELUGU-DRAMA ROMANCE MOVIES HD
-https://starshare.live:443/live/Shuvo480/2309/136478.ts
-#EXTINF:-1,TELUGU-DRAMA THRILLER MOVIES HD
-https://starshare.live:443/live/Shuvo480/2309/136479.ts
-#EXTINF:-1,TELUGU-FANTASY MOVIES HD
-https://starshare.live:443/live/Shuvo480/2309/136480.ts
-#EXTINF:-1,TELUGU-HORROR MOVIES HD
-https://starshare.live:443/live/Shuvo480/2309/136481.ts
-#EXTINF:-1,TELUGU-HORROR THRILLER MOVIES HD
-https://starshare.live:443/live/Shuvo480/2309/136482.ts
-#EXTINF:-1,TELUGU-MUSICAL MOVIES HD
-https://starshare.live:443/live/Shuvo480/2309/136483.ts
-#EXTINF:-1,Guntur Kaaram (2024) (Telugu)
-https://starshare.live:443/movie/Shuvo480/2309/283141.mp4
-#EXTINF:-1,Grrr.. (2024) (Telugu)
-https://starshare.live:443/movie/Shuvo480/2309/383758.mp4
-#EXTINF:-1,Pandurangadu (2008)(Telugu)
-https://starshare.live:443/movie/Shuvo480/2309/256009.mp4
-#EXTINF:-1,Athadu (2005)(Telugu)
-https://starshare.live:443/movie/Shuvo480/2309/262548.mkv
-#EXTINF:-1,Dookudu (2011)(Telugu)
-https://starshare.live:443/movie/Shuvo480/2309/262550.mp4
-#EXTINF:-1,Khaleja (2010)(Telugu)
-https://starshare.live:443/movie/Shuvo480/2309/262551.mp4
-#EXTINF:-1,A Ranjith Cinema (2023) (Telugu)
-https://starshare.live:443/movie/Shuvo480/2309/269126.mp4
-#EXTINF:-1,Kotabommali PS (2023) (Telugu)
-https://starshare.live:443/movie/Shuvo480/2309/269127.mp4
-#EXTINF:-1,Vote (2023) (Telugu)
-https://starshare.live:443/movie/Shuvo480/2309/273675.mp4
-#EXTINF:-1,Bhakshak (2024) (Telugu)
-https://starshare.live:443/movie/Shuvo480/2309/283332.mp4
-#EXTINF:-1,The Kerala Story (2023) (Telugu)
-https://starshare.live:443/movie/Shuvo480/2309/286383.mp4
-#EXTINF:-1,Bhamakalapam 2 (2024) (Telugu)
-https://starshare.live:443/movie/Shuvo480/2309/286384.mp4
-#EXTINF:-1,Raajadhani Files (2024) (Telugu)(CAM)
-https://starshare.live:443/movie/Shuvo480/2309/286387.mp4
-#EXTINF:-1,Siddharth Roy (2024) (Telugu)(CAM)
-https://starshare.live:443/movie/Shuvo480/2309/289609.mp4
-#EXTINF:-1,Sundaram Master (2024) (Telugu)(CAM)
-https://starshare.live:443/movie/Shuvo480/2309/289610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asianet Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/40dc04d8126e441dff6e15e17312b881.png" group-title="Movie",IN: Asianet Movies
+http://iptvtree.net:8080/F32628/09b7a855/157463
+
+#EXTINF:-1 tvg-id="" tvg-name="Asianet News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3c1f85ac8e5ec5f6339c6da0c47b7103.png" group-title="News",IN: Asianet News
+http://iptvtree.net:8080/F32628/09b7a855/163276
+
+#EXTINF:-1 tvg-id="" tvg-name="Asianet Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/358ea3acad1502aa48965437a61f05b7.png" group-title="Movie",IN: Asianet Plus
+http://iptvtree.net:8080/F32628/09b7a855/193206
+
+#EXTINF:-1 tvg-id="" tvg-name="Asianet Suvarna News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/bb181f1491b27a4fd709f97c80c00476.jpg" group-title="News",IN: Asianet Suvarna News
+http://iptvtree.net:8080/F32628/09b7a855/51844
+
